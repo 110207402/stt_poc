@@ -1,0 +1,97 @@
+{
+  "case_id": "v2_tun030",
+  "model_id": "pyannote_31_auto",
+  "elapsed_sec": 1.5688347816467285,
+  "segments": [
+    {
+      "start": 0.03096875,
+      "end": 0.58784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 0.90846875,
+      "end": 2.42721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2.57909375,
+      "end": 3.18659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3.72659375,
+      "end": 4.87409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5.228468750000001,
+      "end": 8.130968750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8.552843750000001,
+      "end": 10.324718750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10.72971875,
+      "end": 13.294718750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13.716593750000001,
+      "end": 14.67846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15.117218750000003,
+      "end": 16.68659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 17.05784375,
+      "end": 18.37409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 18.812843750000003,
+      "end": 19.454093750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 19.79159375,
+      "end": 20.93909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 21.31034375,
+      "end": 23.26784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 23.554718750000003,
+      "end": 24.668468750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.05659375,
+      "end": 28.296593750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 28.735343750000002,
+      "end": 30.051593750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 30.405968750000003,
+      "end": 32.07659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 32.26221875,
+      "end": 34.94534375,
+      "speaker": "SPEAKER_00"
+    }
+  ]
+}

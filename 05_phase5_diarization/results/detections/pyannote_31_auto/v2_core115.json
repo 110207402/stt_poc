@@ -1,0 +1,52 @@
+{
+  "case_id": "v2_core115",
+  "model_id": "pyannote_31_auto",
+  "elapsed_sec": 0.2008061408996582,
+  "segments": [
+    {
+      "start": 0.03096875,
+      "end": 2.57909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 0.28409375000000003,
+      "end": 3.79409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4.21596875,
+      "end": 5.76846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 6.915968750000001,
+      "end": 8.99159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9.36284375,
+      "end": 10.122218750000002,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 10.324718750000002,
+      "end": 12.19784375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 12.653468750000002,
+      "end": 14.222843750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14.442218750000002,
+      "end": 15.57284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 15.94409375,
+      "end": 17.47971875,
+      "speaker": "SPEAKER_00"
+    }
+  ]
+}

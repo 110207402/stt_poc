@@ -1,0 +1,27 @@
+{
+  "case_id": "v2_tun010",
+  "model_id": "campp_3dspeaker",
+  "elapsed_sec": 1.9614946842193604,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 1.84,
+      "end": 9.7,
+      "speaker": "spk_1"
+    },
+    {
+      "start": 9.7,
+      "end": 24.96,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 24.96,
+      "end": 30.01,
+      "speaker": "spk_1"
+    }
+  ]
+}

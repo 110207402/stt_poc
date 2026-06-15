@@ -1,0 +1,1472 @@
+[
+  {
+    "case_id": "q001",
+    "subtype": "A1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我是陳大天，身分證A 1 2 3 4 5 6 7 8 9，民國七十年三月五日生，想問一下我那張凱基享安心的繳費紀錄。"
+      }
+    ],
+    "duration_sec": 13.573,
+    "size_bytes": 434384,
+    "wav_path": "audio/q001.wav"
+  },
+  {
+    "case_id": "q002",
+    "subtype": "A1",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好，我林淑芬，身分證B 2 0 1 2 3 4 5 6 7，民國五十八年八月十二日生，麻煩幫我看一下我這張終身壽險目前的保額還有累積到的保價金。"
+      }
+    ],
+    "duration_sec": 15.358,
+    "size_bytes": 491506,
+    "wav_path": "audio/q002.wav"
+  },
+  {
+    "case_id": "q003",
+    "subtype": "A1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我王小明，身分證字號C 1 1 2 3 4 5 6 7 8，民國六十五年十二月二十日生，我想了解新康泰住院醫療附約這次理賠的給付方式是怎麼計算。"
+      }
+    ],
+    "duration_sec": 17.074,
+    "size_bytes": 546402,
+    "wav_path": "audio/q003.wav"
+  },
+  {
+    "case_id": "q004",
+    "subtype": "A1",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好，我是張志強，身分證D 2 3 1 2 3 4 5 6 7，民國七十二年九月二十五日生，想申請我那張投資型保單帳戶的部分提領，金額大概十萬塊。"
+      }
+    ],
+    "duration_sec": 16.017,
+    "size_bytes": 512596,
+    "wav_path": "audio/q004.wav"
+  },
+  {
+    "case_id": "q005",
+    "subtype": "A1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我吳怡君，身分證F 2 2 1 2 3 4 5 6 7，民國八十年一月十日生，凱基心康泰我有理賠的問題想諮詢，麻煩幫我轉給理賠專員可以嗎。"
+      }
+    ],
+    "duration_sec": 16.493,
+    "size_bytes": 527810,
+    "wav_path": "audio/q005.wav"
+  },
+  {
+    "case_id": "q006",
+    "subtype": "A1",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好，我李建宏，身分證號E 1 1 5 6 7 8 9 0 1，民國六十三年七月七日生，請幫我查一下我的長期照顧保險目前是不是還在有效期內，有沒有欠繳。"
+      }
+    ],
+    "duration_sec": 15.835,
+    "size_bytes": 506770,
+    "wav_path": "audio/q006.wav"
+  },
+  {
+    "case_id": "q007",
+    "subtype": "A1",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我是黃美玲，身分證G 1 3 4 5 6 7 8 9 0，民國六十年四月一日生，想要問看看我那張凱基享放心的長照保險可以加保到幾歲，超過七十歲還可以續保嗎。"
+      }
+    ],
+    "duration_sec": 17.016,
+    "size_bytes": 544546,
+    "wav_path": "audio/q007.wav"
+  },
+  {
+    "case_id": "q008",
+    "subtype": "A1",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我許文傑，身分證H 2 5 1 2 3 4 5 6 7，民國七十五年六月十八日生，麻煩幫我確認我這張醫療附約這個月有沒有成功扣款，怕又漏掉。"
+      }
+    ],
+    "duration_sec": 16.917,
+    "size_bytes": 541380,
+    "wav_path": "audio/q008.wav"
+  },
+  {
+    "case_id": "q009",
+    "subtype": "A1",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我蔡雅婷，身分證J 1 2 3 4 5 6 7 8 9，八十二年五月十五日生，想要諮詢一下我這張新康泰的住院理賠標準，加護病房跟普通病房給付差很多嗎。"
+      }
+    ],
+    "duration_sec": 17.123,
+    "size_bytes": 547970,
+    "wav_path": "audio/q009.wav"
+  },
+  {
+    "case_id": "q010",
+    "subtype": "A1",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好，我周建華，身分證K 2 1 5 6 7 8 9 0 1，民國六十八年十一月三日生，幫我查我那張凱基增優利的年金給付日期是哪一天開始，每年領多少。"
+      }
+    ],
+    "duration_sec": 17.856,
+    "size_bytes": 571446,
+    "wav_path": "audio/q010.wav"
+  },
+  {
+    "case_id": "q011",
+    "subtype": "A1",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我是劉怡萱，身分證A 2 3 4 5 6 7 8 9 1，民國七十一年二月十四日生，我想了解我這張儲蓄險到期之後可以拿多少滿期保險金。"
+      }
+    ],
+    "duration_sec": 14.855,
+    "size_bytes": 475418,
+    "wav_path": "audio/q011.wav"
+  },
+  {
+    "case_id": "q012",
+    "subtype": "A1",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我鄭文豪，身分證B 1 1 2 3 4 5 6 7 0，民國五十九年十月八日生，麻煩幫我確認我那張防癌險的保障範圍有沒有包含初期癌症。"
+      }
+    ],
+    "duration_sec": 16.715,
+    "size_bytes": 534928,
+    "wav_path": "audio/q012.wav"
+  },
+  {
+    "case_id": "q013",
+    "subtype": "A1",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我是楊雅雯，身分證C 2 3 4 5 6 7 8 1 2，民國七十三年八月十六日生，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "我想要問看看我那張凱基心康泰住院的時陣可以給付多少錢，門診手術也算嗎。"
+      }
+    ],
+    "duration_sec": 18.154,
+    "size_bytes": 580982,
+    "wav_path": "audio/q013.wav"
+  },
+  {
+    "case_id": "q014",
+    "subtype": "A1",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我賴志偉，身分證D 1 3 1 2 3 4 5 6 0，民國六十六年五月一日生，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "拜託幫我看一下我這張投資型壽險的帳戶價值現在大概還剩多少。"
+      }
+    ],
+    "duration_sec": 15.792,
+    "size_bytes": 505396,
+    "wav_path": "audio/q014.wav"
+  },
+  {
+    "case_id": "q015",
+    "subtype": "A1",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我是何美華，身分證E 2 1 2 3 4 5 6 7 1，民國七十六年三月二十日生，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "我想要諮詢看看我這張凱基享安心的傷害險，騎機車摔倒的骨折給付多少。"
+      }
+    ],
+    "duration_sec": 17.594,
+    "size_bytes": 563046,
+    "wav_path": "audio/q015.wav"
+  },
+  {
+    "case_id": "q016",
+    "subtype": "A1",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我蘇建文，身分證F 1 3 4 5 6 7 8 9 0，民國六十二年九月十二日生，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "幫我確認一下我那張終身壽險上個月的自動扣繳有沒有成功。"
+      }
+    ],
+    "duration_sec": 14.905,
+    "size_bytes": 477008,
+    "wav_path": "audio/q016.wav"
+  },
+  {
+    "case_id": "q017",
+    "subtype": "A1",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我是廖淑娟，身分證G 2 2 5 6 7 8 9 0 1，民國七十四年七月二十八日生，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "我想要問看一下我這張長照險每個月可以領多少分期保險金，可以領幾年。"
+      }
+    ],
+    "duration_sec": 17.731,
+    "size_bytes": 567436,
+    "wav_path": "audio/q017.wav"
+  },
+  {
+    "case_id": "q018",
+    "subtype": "A1",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我江俊德，身分證H 1 4 3 2 1 5 6 7 9，民國六十九年十二月二日生，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "麻煩幫我看一下我那張新康泰的醫療給付這個月有沒有按時匯入我的帳戶。"
+      }
+    ],
+    "duration_sec": 17.577,
+    "size_bytes": 562498,
+    "wav_path": "audio/q018.wav"
+  },
+  {
+    "case_id": "q019",
+    "subtype": "A2",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我是陳大天，身分證A 1 2 3 4 5 6 7 8 9，民國七十年三月五日生，保單號碼K G I 2 0 2 4 0 0 1 2 3 4，我想申請凱基享安心的住院理賠，上禮拜剛出院。"
+      }
+    ],
+    "duration_sec": 19.9,
+    "size_bytes": 636848,
+    "wav_path": "audio/q019.wav"
+  },
+  {
+    "case_id": "q020",
+    "subtype": "A2",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我邱雅芳，身分證J 2 3 4 5 6 7 8 9 0，民國七十八年四月十一日生，保單號K 2 0 1 8 0 0 4 2，想申請這張防癌險的化療給付，醫院已經開診斷證明書了。"
+      }
+    ],
+    "duration_sec": 17.921,
+    "size_bytes": 573524,
+    "wav_path": "audio/q020.wav"
+  },
+  {
+    "case_id": "q021",
+    "subtype": "A2",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我曾國偉，身分證K 1 2 3 4 5 6 7 8 0，民國六十一年六月十日生，保單號碼K L 2 0 2 0 9 8 7 6 5 4，麻煩幫我申請這張新康泰的手術理賠金，闌尾炎開刀住三天。"
+      }
+    ],
+    "duration_sec": 18.067,
+    "size_bytes": 578198,
+    "wav_path": "audio/q021.wav"
+  },
+  {
+    "case_id": "q022",
+    "subtype": "A2",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我是黃美玲，身分證G 1 3 4 5 6 7 8 9 0，民國六十年四月一日生，保單號K G I 2 0 2 3 0 0 1 1，幫我申請我這張凱基享放心長照險的失能保險金，已經有醫師診斷書。"
+      }
+    ],
+    "duration_sec": 20.95,
+    "size_bytes": 670458,
+    "wav_path": "audio/q022.wav"
+  },
+  {
+    "case_id": "q023",
+    "subtype": "A2",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我張志強，身分證D 2 3 1 2 3 4 5 6 7，民國七十二年九月二十五日生，保單號K 2 0 1 9 0 0 5 6 7 8，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "我想要申請我這張凱基增優利的年金給付，請問需要準備什麼文件。"
+      }
+    ],
+    "duration_sec": 20.692,
+    "size_bytes": 662186,
+    "wav_path": "audio/q023.wav"
+  },
+  {
+    "case_id": "q024",
+    "subtype": "A2",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我林淑芬，身分證B 2 0 1 2 3 4 5 6 7，民國五十八年八月十二日生，保單號K G I 2 0 2 2 5 5 5 8 8 8，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "麻煩幫我看這張終身壽險的解約金大概有多少，跟總繳保費差多少。"
+      }
+    ],
+    "duration_sec": 20.784,
+    "size_bytes": 665142,
+    "wav_path": "audio/q024.wav"
+  },
+  {
+    "case_id": "q025",
+    "subtype": "C1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我陳大天，最近搬家了，麻煩把我那張凱基享安心的聯絡地址改成台北市信義區忠孝東路五段一二三號，謝謝。"
+      }
+    ],
+    "duration_sec": 13.574,
+    "size_bytes": 434410,
+    "wav_path": "audio/q025.wav"
+  },
+  {
+    "case_id": "q026",
+    "subtype": "C1",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我許文傑，請幫我把終身壽險的通訊地址更新為新北市板橋區文化路二段五十號八樓，舊地址已經不住了。"
+      }
+    ],
+    "duration_sec": 11.703,
+    "size_bytes": 374530,
+    "wav_path": "audio/q026.wav"
+  },
+  {
+    "case_id": "q027",
+    "subtype": "C1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我是蔡雅婷，麻煩幫我把投資型保單的聯絡地址改到台中市西區英才路二百號，順便幫我看一下這個月的對帳單會寄到新地址嗎。"
+      }
+    ],
+    "duration_sec": 14.81,
+    "size_bytes": 473958,
+    "wav_path": "audio/q027.wav"
+  },
+  {
+    "case_id": "q028",
+    "subtype": "C1",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我林淑芬，最近搬厝，麻煩幫我把醫療附約的通訊地址改做高雄市三民區建工路五百號，從下個月開始用新地址。"
+      }
+    ],
+    "duration_sec": 14.441,
+    "size_bytes": 462164,
+    "wav_path": "audio/q028.wav"
+  },
+  {
+    "case_id": "q029",
+    "subtype": "C1",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我吳怡君，幫我把這張長照險的通訊地址改成桃園市中壢區中央西路三段三百號，這是我女兒家的地址。"
+      }
+    ],
+    "duration_sec": 12.266,
+    "size_bytes": 392548,
+    "wav_path": "audio/q029.wav"
+  },
+  {
+    "case_id": "q030",
+    "subtype": "C1",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我王小明，住址改成台南市東區大學路一號，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "麻煩把我這張凱基心康泰的通訊地址換成這個新的，繳費通知也要寄這邊。"
+      }
+    ],
+    "duration_sec": 14.135,
+    "size_bytes": 452376,
+    "wav_path": "audio/q030.wav"
+  },
+  {
+    "case_id": "q031",
+    "subtype": "C1",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我黃美玲，新地址是新竹市東區光復路二段一五零號，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "請幫我把這張防癌險的聯絡地址更新一下，舊的已經沒在用。"
+      }
+    ],
+    "duration_sec": 13.384,
+    "size_bytes": 428330,
+    "wav_path": "audio/q031.wav"
+  },
+  {
+    "case_id": "q032",
+    "subtype": "C1",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我周建華，地址改成基隆市中正區中正路一百號，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "拜託幫我把終身壽險的住址換成這個新的地址，下次保單通知都寄這邊。"
+      }
+    ],
+    "duration_sec": 14.607,
+    "size_bytes": 467452,
+    "wav_path": "audio/q032.wav"
+  },
+  {
+    "case_id": "q033",
+    "subtype": "C2",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我張志強，請幫我把那張凱基新康泰的聯絡電話改成0 9 1 2 3 4 5 6 7 8，原本的舊號碼已經停用了。"
+      }
+    ],
+    "duration_sec": 11.998,
+    "size_bytes": 383990,
+    "wav_path": "audio/q033.wav"
+  },
+  {
+    "case_id": "q034",
+    "subtype": "C2",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我邱雅芳，麻煩把我那張投資型保單的手機號碼更新為0 9 2 8 1 2 3 4 5 6，以後對帳單通知都打這支。"
+      }
+    ],
+    "duration_sec": 11.928,
+    "size_bytes": 381736,
+    "wav_path": "audio/q034.wav"
+  },
+  {
+    "case_id": "q035",
+    "subtype": "C2",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我李建宏，幫我把這張醫療險的聯絡電話換成0 9 3 3 9 8 7 6 5 4，要扣款通知打這支就可以。"
+      }
+    ],
+    "duration_sec": 10.683,
+    "size_bytes": 341912,
+    "wav_path": "audio/q035.wav"
+  },
+  {
+    "case_id": "q036",
+    "subtype": "C2",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我廖淑娟，麻煩把我這張凱基享安心的電話改做0 9 2 2 1 1 1 3 3 3，這是我新辦的門號。"
+      }
+    ],
+    "duration_sec": 11.34,
+    "size_bytes": 362924,
+    "wav_path": "audio/q036.wav"
+  },
+  {
+    "case_id": "q037",
+    "subtype": "C2",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我蘇建文，新電話是0 9 8 7 6 5 4 3 2 1，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "拜託幫我把這張長照險的聯絡電話更新一下，以後客服打這支找我。"
+      }
+    ],
+    "duration_sec": 13.682,
+    "size_bytes": 437866,
+    "wav_path": "audio/q037.wav"
+  },
+  {
+    "case_id": "q038",
+    "subtype": "C2",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我何美華，市話改成0 2 2 3 4 5 6 7 8 9，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "麻煩幫我把這張終身壽險的家裡電話換成這個，平常我都待在家。"
+      }
+    ],
+    "duration_sec": 13.921,
+    "size_bytes": 445516,
+    "wav_path": "audio/q038.wav"
+  },
+  {
+    "case_id": "q039",
+    "subtype": "B1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我陳大天，想了解凱基享安心這個商品的詳細內容，特別是住院的給付怎麼算，加護病房有沒有加成。"
+      }
+    ],
+    "duration_sec": 12.279,
+    "size_bytes": 392968,
+    "wav_path": "audio/q039.wav"
+  },
+  {
+    "case_id": "q040",
+    "subtype": "B1",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我吳怡君，請問凱基有沒有適合三十歲女性買的儲蓄險商品，預算大概一年五萬左右。"
+      }
+    ],
+    "duration_sec": 9.648,
+    "size_bytes": 308794,
+    "wav_path": "audio/q040.wav"
+  },
+  {
+    "case_id": "q041",
+    "subtype": "B1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好，我是張志強，想諮詢一下投資型保單跟傳統壽險的差別在哪裡，哪一種比較適合預算有限的家庭。"
+      }
+    ],
+    "duration_sec": 12.369,
+    "size_bytes": 395842,
+    "wav_path": "audio/q041.wav"
+  },
+  {
+    "case_id": "q042",
+    "subtype": "B1",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我林淑芬，請問凱基心康泰跟新康泰這兩張住院醫療附約的保障範圍差在哪，舊保戶能不能轉到新版。"
+      }
+    ],
+    "duration_sec": 11.063,
+    "size_bytes": 354050,
+    "wav_path": "audio/q042.wav"
+  },
+  {
+    "case_id": "q043",
+    "subtype": "B1",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我邱雅芳，幫我看一下我目前的主約還可以加保哪些醫療附約，我比較在意實支實付的部分。"
+      }
+    ],
+    "duration_sec": 10.349,
+    "size_bytes": 331198,
+    "wav_path": "audio/q043.wav"
+  },
+  {
+    "case_id": "q044",
+    "subtype": "B1",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我王小明，想要問看看凱基有沒有適合六十歲老人家投保的醫療險，免體檢的那種比較好。"
+      }
+    ],
+    "duration_sec": 9.992,
+    "size_bytes": 319780,
+    "wav_path": "audio/q044.wav"
+  },
+  {
+    "case_id": "q045",
+    "subtype": "B1",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我蔡雅婷，幫我了解一下凱基增優利這張年金商品的內容，每年保費大概要多少，幾歲開始可以領年金。"
+      }
+    ],
+    "duration_sec": 11.818,
+    "size_bytes": 378220,
+    "wav_path": "audio/q045.wav"
+  },
+  {
+    "case_id": "q046",
+    "subtype": "B1",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我黃美玲，想要問看看防癌險的等待期是多久，剛投保第一個月就確診癌症會不會理賠。"
+      }
+    ],
+    "duration_sec": 10.769,
+    "size_bytes": 344666,
+    "wav_path": "audio/q046.wav"
+  },
+  {
+    "case_id": "q047",
+    "subtype": "B1",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我許文傑，請問你們有沒有針對小朋友的醫療保險，剛出生一個月可以投保嗎，保費大概多少。"
+      }
+    ],
+    "duration_sec": 10.3,
+    "size_bytes": 329642,
+    "wav_path": "audio/q047.wav"
+  },
+  {
+    "case_id": "q048",
+    "subtype": "B1",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我是周建華，想要諮詢看看長照險可以保障到幾歲，認定失能之後是按月給付還是一次給付。"
+      }
+    ],
+    "duration_sec": 11.196,
+    "size_bytes": 358308,
+    "wav_path": "audio/q048.wav"
+  },
+  {
+    "case_id": "q049",
+    "subtype": "B1",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我楊雅雯，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "我想了解凱基享放心這張長照保單的給付條件，巴氏量表幾分以下才符合。"
+      }
+    ],
+    "duration_sec": 10.394,
+    "size_bytes": 332644,
+    "wav_path": "audio/q049.wav"
+  },
+  {
+    "case_id": "q050",
+    "subtype": "B1",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我賴志偉，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "請問凱基的活利鑫動投資型壽險有沒有月配息的選擇，最低投保金額是多少。"
+      }
+    ],
+    "duration_sec": 10.862,
+    "size_bytes": 347614,
+    "wav_path": "audio/q050.wav"
+  },
+  {
+    "case_id": "q051",
+    "subtype": "B1",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我何美華，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "我想要問看看凱基心康泰的住院給付標準是按一日計算還是按實支實付，自費病房有差嗎。"
+      }
+    ],
+    "duration_sec": 10.937,
+    "size_bytes": 350042,
+    "wav_path": "audio/q051.wav"
+  },
+  {
+    "case_id": "q052",
+    "subtype": "B1",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我廖淑娟，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "想要諮詢一下凱基有沒有針對糖尿病人投保的醫療險，已經吃藥控制三年的算可保體嗎。"
+      }
+    ],
+    "duration_sec": 12.301,
+    "size_bytes": 393680,
+    "wav_path": "audio/q052.wav"
+  },
+  {
+    "case_id": "q053",
+    "subtype": "B1",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我曾國偉，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "請問你們的重大疾病險有沒有包含癌症的初次診斷給付，原位癌也算嗎。"
+      }
+    ],
+    "duration_sec": 9.445,
+    "size_bytes": 302274,
+    "wav_path": "audio/q053.wav"
+  },
+  {
+    "case_id": "q054",
+    "subtype": "B2",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好我陳大天，保單號碼K G I 2 0 2 4 0 0 1 2 3 4，請幫我看一下這張凱基享安心目前的保額是多少，繳費年期還剩幾年。"
+      }
+    ],
+    "duration_sec": 14.597,
+    "size_bytes": 467144,
+    "wav_path": "audio/q054.wav"
+  },
+  {
+    "case_id": "q055",
+    "subtype": "B2",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我林淑芬，保單號K 2 0 1 8 0 0 4 2，麻煩確認一下這張新康泰附約的繳費期還剩幾年，到期之後保障會怎麼變動。"
+      }
+    ],
+    "duration_sec": 13.018,
+    "size_bytes": 416626,
+    "wav_path": "audio/q055.wav"
+  },
+  {
+    "case_id": "q056",
+    "subtype": "B2",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我張志強，保單號K L 2 0 2 0 9 8 7 6 5 4，幫我確認這張投資型壽險現在的帳戶價值剩多少，跟總繳保費比起來是賺還是虧。"
+      }
+    ],
+    "duration_sec": 14.104,
+    "size_bytes": 451382,
+    "wav_path": "audio/q056.wav"
+  },
+  {
+    "case_id": "q057",
+    "subtype": "B2",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你好我吳怡君，保單號K G I 2 0 2 3 0 0 1 1，想要查我這張凱基增優利的年金開始日是哪一天，每年領的金額是固定還是會調整。"
+      }
+    ],
+    "duration_sec": 14.364,
+    "size_bytes": 459704,
+    "wav_path": "audio/q057.wav"
+  },
+  {
+    "case_id": "q058",
+    "subtype": "B2",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "你好我許文傑，保單號K 2 0 1 9 0 0 5 6 7 8，麻煩幫我查一下這張長照險最近半年的繳費紀錄，有沒有哪個月漏扣。"
+      }
+    ],
+    "duration_sec": 12.386,
+    "size_bytes": 396384,
+    "wav_path": "audio/q058.wav"
+  },
+  {
+    "case_id": "q059",
+    "subtype": "B2",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "您好我蘇建文，保單號K G I 2 0 2 2 5 5 5 8 8 8，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "幫我看這張終身壽險的解約金可以拿多少，跟保單借款比哪個比較划算。"
+      }
+    ],
+    "duration_sec": 13.453,
+    "size_bytes": 430538,
+    "wav_path": "audio/q059.wav"
+  },
+  {
+    "case_id": "q060",
+    "subtype": "B2",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "妳好我何美華，保單號K L 2 0 2 1 0 0 1 1 2 2，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "請幫我查這張凱基享安心醫療附約最近三個月的給付明細，金額對不太上。"
+      }
+    ],
+    "duration_sec": 14.076,
+    "size_bytes": 450472,
+    "wav_path": "audio/q060.wav"
+  },
+  {
+    "case_id": "q061",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好，請問凱基享安心這張商品有沒有包含長期照顧的保障，等待期是多久，幾歲投保比較划算。"
+      }
+    ],
+    "duration_sec": 11.846,
+    "size_bytes": 379120,
+    "wav_path": "audio/q061.wav"
+  },
+  {
+    "case_id": "q062",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "想請問你們的重大疾病險，癌症的給付是一次性還是按療程分期領，可以同時申請壽險的給付嗎。"
+      }
+    ],
+    "duration_sec": 10.3,
+    "size_bytes": 329644,
+    "wav_path": "audio/q062.wav"
+  },
+  {
+    "case_id": "q063",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "請問凱基心康泰住院醫療附約，加護病房的給付金額跟普通病房是不是不一樣，自付差額有上限嗎。"
+      }
+    ],
+    "duration_sec": 11.93,
+    "size_bytes": 381810,
+    "wav_path": "audio/q063.wav"
+  },
+  {
+    "case_id": "q064",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "你們的投資型保單最低保費門檻是多少，可以選擇月繳半年繳還是只能年繳，前置費用怎麼計算。"
+      }
+    ],
+    "duration_sec": 9.967,
+    "size_bytes": 318994,
+    "wav_path": "audio/q064.wav"
+  },
+  {
+    "case_id": "q065",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "請問凱基增優利這張年金保險，年金開始給付之後還可以變更受益人嗎，要走什麼流程。"
+      }
+    ],
+    "duration_sec": 10.219,
+    "size_bytes": 327066,
+    "wav_path": "audio/q065.wav"
+  },
+  {
+    "case_id": "q066",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "想了解你們的長照險，認定失能的標準是用巴氏量表還是有其他標準，幾分以下才符合申請條件。"
+      }
+    ],
+    "duration_sec": 10.584,
+    "size_bytes": 338732,
+    "wav_path": "audio/q066.wav"
+  },
+  {
+    "case_id": "q067",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "請問凱基新康泰的住院醫療附約，門診手術算在保障範圍內嗎，比方說大腸鏡息肉切除這種。"
+      }
+    ],
+    "duration_sec": 11.468,
+    "size_bytes": 367028,
+    "wav_path": "audio/q067.wav"
+  },
+  {
+    "case_id": "q068",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "你們的醫療險如果繳了五年想要解約，可以拿回部分保費嗎，會不會影響原本主約的效力。"
+      }
+    ],
+    "duration_sec": 9.268,
+    "size_bytes": 296624,
+    "wav_path": "audio/q068.wav"
+  },
+  {
+    "case_id": "q069",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "請問凱基有沒有針對退休族設計的儲蓄型保單，年金可以分期領取的那種，預定利率現在是多少。"
+      }
+    ],
+    "duration_sec": 11.532,
+    "size_bytes": 369060,
+    "wav_path": "audio/q069.wav"
+  },
+  {
+    "case_id": "q070",
+    "subtype": "D",
+    "language": "mandarin",
+    "voice": "zh_en_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "想請問你們的傷害險，如果在國外發生意外，理賠程序需要哪些文件，醫療收據國外開的英文版可以嗎。"
+      }
+    ],
+    "duration_sec": 10.921,
+    "size_bytes": 349520,
+    "wav_path": "audio/q070.wav"
+  },
+  {
+    "case_id": "q071",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "請問凱基享放心這張長照保險，要怎樣才符合認定失能的標準，神經科醫師開的診斷書可以嗎。"
+      }
+    ],
+    "duration_sec": 10.204,
+    "size_bytes": 326588,
+    "wav_path": "audio/q071.wav"
+  },
+  {
+    "case_id": "q072",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你們的防癌險有沒有包含化療跟放射線治療的給付，等待期要多久，等待期內確診算不算。"
+      }
+    ],
+    "duration_sec": 10.631,
+    "size_bytes": 340244,
+    "wav_path": "audio/q072.wav"
+  },
+  {
+    "case_id": "q073",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "想要了解凱基心康泰的住院日額是多少，住院前後的門診治療有沒有保障，回診拿藥的費用算嗎。"
+      }
+    ],
+    "duration_sec": 10.671,
+    "size_bytes": 341522,
+    "wav_path": "audio/q073.wav"
+  },
+  {
+    "case_id": "q074",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "請問你們的終身壽險可以用保單借款嗎，借款的利率怎麼計算，會不會影響保單效力。"
+      }
+    ],
+    "duration_sec": 9.882,
+    "size_bytes": 316252,
+    "wav_path": "audio/q074.wav"
+  },
+  {
+    "case_id": "q075",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "凱基增優利這張年金保險，如果中途想要解約大概可以拿回多少，跟總繳保費差很多嗎。"
+      }
+    ],
+    "duration_sec": 9.824,
+    "size_bytes": 314398,
+    "wav_path": "audio/q075.wav"
+  },
+  {
+    "case_id": "q076",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "你們的投資型保單帳戶可以投資哪些基金，可以自己選擇配置嗎，每年可以轉換幾次免費。"
+      }
+    ],
+    "duration_sec": 11.027,
+    "size_bytes": 352896,
+    "wav_path": "audio/q076.wav"
+  },
+  {
+    "case_id": "q077",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "請問凱基新康泰住院醫療附約有沒有理賠手術自費的耗材費用，比方說人工關節這種比較貴的。"
+      }
+    ],
+    "duration_sec": 9.556,
+    "size_bytes": 305822,
+    "wav_path": "audio/q077.wav"
+  },
+  {
+    "case_id": "q078",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "想要請教一下，重大疾病險裡面包含的疾病範圍有幾項，輕度跟重度的給付比例不一樣嗎。"
+      }
+    ],
+    "duration_sec": 10.245,
+    "size_bytes": 327882,
+    "wav_path": "audio/q078.wav"
+  },
+  {
+    "case_id": "q079",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_male_1",
+    "segments": [
+      {
+        "voice": "tai_male_1",
+        "text": "凱基享安心這張保單，停繳之後多久會失效，可以申請復效嗎，復效要不要重做健康告知。"
+      }
+    ],
+    "duration_sec": 10.629,
+    "size_bytes": 340180,
+    "wav_path": "audio/q079.wav"
+  },
+  {
+    "case_id": "q080",
+    "subtype": "D",
+    "language": "hokkien",
+    "voice": "tai_female_1",
+    "segments": [
+      {
+        "voice": "tai_female_1",
+        "text": "請問你們的醫療附約，續保到幾歲，續保的保費會不會調漲，年紀大了還能繼續保嗎。"
+      }
+    ],
+    "duration_sec": 9.468,
+    "size_bytes": 303024,
+    "wav_path": "audio/q080.wav"
+  },
+  {
+    "case_id": "q081",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好想請教一下，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "凱基享安心這張保單的長期照顧給付是按月領還是一次性領完，給付期間最長幾年。"
+      }
+    ],
+    "duration_sec": 11.071,
+    "size_bytes": 354326,
+    "wav_path": "audio/q081.wav"
+  },
+  {
+    "case_id": "q082",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "想請問"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "凱基心康泰跟新康泰這兩張住院醫療附約有什麼差別，要不要從舊版轉到新版比較好。"
+      }
+    ],
+    "duration_sec": 10.85,
+    "size_bytes": 347228,
+    "wav_path": "audio/q082.wav"
+  },
+  {
+    "case_id": "q083",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "請問"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "你們的投資型保單的保費可以從信用卡扣繳嗎，刷哪幾家銀行有手續費優惠。"
+      }
+    ],
+    "duration_sec": 9.206,
+    "size_bytes": 294650,
+    "wav_path": "audio/q083.wav"
+  },
+  {
+    "case_id": "q084",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好我想請教，"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "終身壽險的保額可以中途調整嗎，調高的話需要重新做健康告知或體檢嗎。"
+      }
+    ],
+    "duration_sec": 11.039,
+    "size_bytes": 353276,
+    "wav_path": "audio/q084.wav"
+  },
+  {
+    "case_id": "q085",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "您好，"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "凱基增優利這張年金保險的預定利率是按哪一年的標準計算，現在投保跟去年投保有差嗎。"
+      }
+    ],
+    "duration_sec": 10.254,
+    "size_bytes": 328184,
+    "wav_path": "audio/q085.wav"
+  },
+  {
+    "case_id": "q086",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "想請問"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "你們的長照險如果認定失能但是後來病情康復了，分期保險金還會繼續發嗎，要重新提供醫師證明嗎。"
+      }
+    ],
+    "duration_sec": 12.746,
+    "size_bytes": 407908,
+    "wav_path": "audio/q086.wav"
+  },
+  {
+    "case_id": "q087",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "請問一下"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "凱基有沒有提供保戶的線上服務，可以查保單明細跟對帳單嗎，需要先註冊會員嗎。"
+      }
+    ],
+    "duration_sec": 11.28,
+    "size_bytes": 360996,
+    "wav_path": "audio/q087.wav"
+  },
+  {
+    "case_id": "q088",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "想請教"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "重大疾病險的保險金跟癌症險的給付可以同時申請嗎，會不會有相互排他的條款。"
+      }
+    ],
+    "duration_sec": 10.162,
+    "size_bytes": 325232,
+    "wav_path": "audio/q088.wav"
+  },
+  {
+    "case_id": "q089",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_male_1+tai_male_1",
+    "segments": [
+      {
+        "voice": "zh_en_male_1",
+        "text": "請問"
+      },
+      {
+        "voice": "tai_male_1",
+        "text": "凱基新康泰住院醫療附約有沒有限制總給付次數或天數，慢性病住院反覆住會不會超過上限。"
+      }
+    ],
+    "duration_sec": 11.286,
+    "size_bytes": 361204,
+    "wav_path": "audio/q089.wav"
+  },
+  {
+    "case_id": "q090",
+    "subtype": "D",
+    "language": "codeswitch",
+    "voice": "zh_en_female_1+tai_female_1",
+    "segments": [
+      {
+        "voice": "zh_en_female_1",
+        "text": "妳好"
+      },
+      {
+        "voice": "tai_female_1",
+        "text": "我朋友推薦凱基享放心，請問這張長照保單跟其他公司比有什麼優勢，保費競爭力怎麼樣。"
+      }
+    ],
+    "duration_sec": 11.854,
+    "size_bytes": 379376,
+    "wav_path": "audio/q090.wav"
+  }
+]

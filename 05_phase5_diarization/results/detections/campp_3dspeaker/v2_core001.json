@@ -1,0 +1,62 @@
+{
+  "case_id": "v2_core001",
+  "model_id": "campp_3dspeaker",
+  "elapsed_sec": 62.932332277297974,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 3.9,
+      "end": 9.18,
+      "speaker": "spk_1"
+    },
+    {
+      "start": 9.18,
+      "end": 15.26,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 15.54,
+      "end": 18.45,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 18.45,
+      "end": 20.92,
+      "speaker": "spk_1"
+    },
+    {
+      "start": 20.92,
+      "end": 29.34,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 29.34,
+      "end": 31.15,
+      "speaker": "spk_1"
+    },
+    {
+      "start": 31.62,
+      "end": 34.35,
+      "speaker": "spk_1"
+    },
+    {
+      "start": 34.35,
+      "end": 37.02,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 37.36,
+      "end": 42.78,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 42.78,
+      "end": 45.44,
+      "speaker": "spk_1"
+    }
+  ]
+}

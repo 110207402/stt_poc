@@ -1,0 +1,97 @@
+{
+  "case_id": "v2_core064",
+  "model_id": "pyannote_31_auto",
+  "elapsed_sec": 0.5147309303283691,
+  "segments": [
+    {
+      "start": 0.03096875,
+      "end": 3.03471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3.0853437500000003,
+      "end": 3.9797187500000004,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4.519718750000001,
+      "end": 5.312843750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5.464718750000001,
+      "end": 7.844093750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 8.164718750000002,
+      "end": 10.763468750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 11.30346875,
+      "end": 17.12534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 17.46284375,
+      "end": 20.63534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 21.090968750000002,
+      "end": 22.609718750000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 22.609718750000003,
+      "end": 22.660343750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 22.86284375,
+      "end": 22.89659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 22.89659375,
+      "end": 22.94721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 22.94721875,
+      "end": 23.031593750000003,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 23.031593750000003,
+      "end": 25.00596875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.49534375,
+      "end": 27.13221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 27.402218750000003,
+      "end": 28.53284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 28.76909375,
+      "end": 30.65909375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 31.03034375,
+      "end": 33.595343750000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 34.017218750000005,
+      "end": 37.088468750000004,
+      "speaker": "SPEAKER_01"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "case_id": "v2_rol018",
+  "model_id": "pyannote_31_auto",
+  "elapsed_sec": 0.4202239513397217,
+  "segments": [
+    {
+      "start": 0.03096875,
+      "end": 0.63846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 0.85784375,
+      "end": 2.15721875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2.4778437500000003,
+      "end": 3.45659375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3.6759687500000005,
+      "end": 5.228468750000001,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5.835968750000001,
+      "end": 6.865343750000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 7.202843750000001,
+      "end": 8.72159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9.025343750000001,
+      "end": 10.83096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 11.438468750000002,
+      "end": 12.164093750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12.484718750000003,
+      "end": 13.56471875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 13.800968750000003,
+      "end": 16.21409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.922843750000002,
+      "end": 18.44159375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 18.74534375,
+      "end": 20.98971875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 21.54659375,
+      "end": 22.72784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 23.04846875,
+      "end": 24.85409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 25.140968750000003,
+      "end": 26.76096875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 27.23346875,
+      "end": 28.60034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 28.95471875,
+      "end": 30.54096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 30.70971875,
+      "end": 31.50284375,
+      "speaker": "SPEAKER_01"
+    }
+  ]
+}

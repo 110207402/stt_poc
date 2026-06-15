@@ -1,0 +1,4 @@
+model,agent_barge_in,clean_turn_taking,codeswitch,customer_barge_in,hokkien_pure,impostor_unknown,no_pii_product_inquiry,reentry_long_gap,reentry_short_gap,same_gender_similar,short_backchannel,simultaneous_start,third_party_background
+pyannote 3.1 (auto),2.2,6.74,2.39,5.04,1.0,13.46,0.0,7.64,13.52,13.26,4.96,4.36,11.92
+pyannote 3.1 (fixed N),1.52,8.12,1.5,2.74,1.0,28.24,0.0,1.81,5.71,12.23,4.23,3.12,15.06
+CAM++,10.64,5.73,5.15,10.17,6.97,19.78,6.97,5.83,5.72,2.56,9.14,25.18,10.8

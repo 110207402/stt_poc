@@ -1,0 +1,4894 @@
+{
+  "q001:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "陳大天 身分證A123456789 民國七",
+      "start": 5,
+      "end": 26,
+      "score": 0.9920626878738403
+    },
+    {
+      "category": "private_date",
+      "text": "十年三月五日",
+      "start": 26,
+      "end": 32,
+      "score": 0.6865231891473135
+    }
+  ],
+  "q001:e1:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [
+      "A123456789"
+    ],
+    "birth_date": [
+      "民國七十年三月五日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 43,
+      "total_tokens": 532
+    }
+  },
+  "q001:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "陳大天 身分證A123456789 民國七十年三月五日生",
+      "start": 5,
+      "end": 33,
+      "score": 0.9712323858624413
+    }
+  ],
+  "q001:e2:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [
+      "A123456789"
+    ],
+    "birth_date": [
+      "民國七十年三月五日"
+    ],
+    "policy_id": [
+      "凱基享安心"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 49,
+      "total_tokens": 538
+    }
+  },
+  "q002:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬 身分證B201234567 民",
+      "start": 4,
+      "end": 23,
+      "score": 0.9252790262301763
+    },
+    {
+      "category": "private_date",
+      "text": "國58年8月12日",
+      "start": 23,
+      "end": 32,
+      "score": 0.8547441278185163
+    }
+  ],
+  "q002:e1:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [
+      "B201234567"
+    ],
+    "birth_date": [
+      "民國58年8月12日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 500,
+      "completion_tokens": 42,
+      "total_tokens": 542
+    }
+  },
+  "q002:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬 身分證B201234567",
+      "start": 4,
+      "end": 21,
+      "score": 0.8479181202975187
+    },
+    {
+      "category": "private_date",
+      "text": " 民國五十八年八月十二日",
+      "start": 21,
+      "end": 33,
+      "score": 0.9523237811194526
+    }
+  ],
+  "q002:e2:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [
+      "B201234567"
+    ],
+    "birth_date": [
+      "民國五十八年八月十二日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 501,
+      "completion_tokens": 43,
+      "total_tokens": 544
+    }
+  },
+  "q003:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "王小明 身分證字號CE12345678 民國六十五年十二月二十",
+      "start": 4,
+      "end": 35,
+      "score": 0.9405745466550192
+    },
+    {
+      "category": "private_date",
+      "text": "日生",
+      "start": 35,
+      "end": 37,
+      "score": 0.5973892062902451
+    }
+  ],
+  "q003:e1:m2": {
+    "name": [
+      "王小明"
+    ],
+    "national_id": [
+      "CE12345678"
+    ],
+    "birth_date": [
+      "民國六十五年十二月二十日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 499,
+      "completion_tokens": 43,
+      "total_tokens": 542
+    }
+  },
+  "q003:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "王小明 身分證字號CE12345678 民國六十五年十二月",
+      "start": 4,
+      "end": 33,
+      "score": 0.8983742751573262
+    },
+    {
+      "category": "private_date",
+      "text": "二",
+      "start": 33,
+      "end": 34,
+      "score": 0.5355891585350037
+    },
+    {
+      "category": "private_person",
+      "text": "十",
+      "start": 34,
+      "end": 35,
+      "score": 0.4002487063407898
+    },
+    {
+      "category": "private_date",
+      "text": "日生",
+      "start": 35,
+      "end": 37,
+      "score": 0.6699043214321136
+    }
+  ],
+  "q003:e2:m2": {
+    "name": [
+      "王小明"
+    ],
+    "national_id": [
+      "CE12345678"
+    ],
+    "birth_date": [
+      "民國六十五年十二月二十日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 499,
+      "completion_tokens": 43,
+      "total_tokens": 542
+    }
+  },
+  "q004:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強 身分證231234567 民國七十二年九月二十五日生",
+      "start": 5,
+      "end": 35,
+      "score": 0.9697965174913407
+    },
+    {
+      "category": "private_person",
+      "text": "那",
+      "start": 40,
+      "end": 41,
+      "score": 0.6245036125183105
+    },
+    {
+      "category": "private_person",
+      "text": "提領",
+      "start": 53,
+      "end": 55,
+      "score": 0.7511625289916992
+    },
+    {
+      "category": "private_person",
+      "text": " 金額大概十萬塊",
+      "start": 55,
+      "end": 63,
+      "score": 0.7850593850016594
+    }
+  ],
+  "q004:e1:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [
+      "231234567"
+    ],
+    "birth_date": [
+      "民國七十二年九月二十五日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 496,
+      "completion_tokens": 42,
+      "total_tokens": 538
+    }
+  },
+  "q004:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強 身分證231234567 民國七十二年九月二十五日生",
+      "start": 5,
+      "end": 35,
+      "score": 0.9697965174913407
+    },
+    {
+      "category": "private_person",
+      "text": "那",
+      "start": 40,
+      "end": 41,
+      "score": 0.6245036125183105
+    },
+    {
+      "category": "private_person",
+      "text": "提領",
+      "start": 53,
+      "end": 55,
+      "score": 0.7511625289916992
+    },
+    {
+      "category": "private_person",
+      "text": " 金額大概十萬塊",
+      "start": 55,
+      "end": 63,
+      "score": 0.7850593850016594
+    }
+  ],
+  "q004:e2:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [
+      "231234567"
+    ],
+    "birth_date": [
+      "民國七十二年九月二十五日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 496,
+      "completion_tokens": 42,
+      "total_tokens": 538
+    }
+  },
+  "q005:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我吳怡君 身分證F22-1234567 民國八十年一月十日生 凱基辛康泰",
+      "start": 2,
+      "end": 39,
+      "score": 0.9975905974706014
+    }
+  ],
+  "q005:e1:m2": {
+    "name": [
+      "吳怡君"
+    ],
+    "national_id": [
+      "F22-1234567"
+    ],
+    "birth_date": [
+      "民國八十年一月十日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 45,
+      "total_tokens": 549
+    }
+  },
+  "q005:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我吳怡君 身分證F22-1234567 民國八十年一月十日生",
+      "start": 2,
+      "end": 33,
+      "score": 0.947335384786129
+    },
+    {
+      "category": "private_person",
+      "text": "凱",
+      "start": 34,
+      "end": 35,
+      "score": 0.8648800253868103
+    }
+  ],
+  "q005:e2:m2": {
+    "name": [
+      "吳怡君"
+    ],
+    "national_id": [
+      "F22-1234567"
+    ],
+    "birth_date": [
+      "民國八十年一月十日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 45,
+      "total_tokens": 549
+    }
+  },
+  "q006:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "李建宏 身分證號1115678901 民國六十三年七月七日",
+      "start": 4,
+      "end": 33,
+      "score": 0.9862553507089615
+    },
+    {
+      "category": "private_person",
+      "text": "幫",
+      "start": 36,
+      "end": 37,
+      "score": 0.6201528310775757
+    }
+  ],
+  "q006:e1:m2": {
+    "name": [
+      "李建宏"
+    ],
+    "national_id": [
+      "1115678901"
+    ],
+    "birth_date": [
+      "民國六十三年七月七日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 500,
+      "completion_tokens": 42,
+      "total_tokens": 542
+    }
+  },
+  "q006:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "李建宏 身分證號1115678901 民國六十三年七月七日",
+      "start": 4,
+      "end": 33,
+      "score": 0.9862553507089615
+    },
+    {
+      "category": "private_person",
+      "text": "幫",
+      "start": 36,
+      "end": 37,
+      "score": 0.6201528310775757
+    }
+  ],
+  "q006:e2:m2": {
+    "name": [
+      "李建宏"
+    ],
+    "national_id": [],
+    "birth_date": [
+      "民國六十三年七月七日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 500,
+      "completion_tokens": 37,
+      "total_tokens": 537
+    }
+  },
+  "q007:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "黃美玲 身分證古一三四五六七八九零 民國六十年四月一號生",
+      "start": 5,
+      "end": 33,
+      "score": 0.9979585179915795
+    }
+  ],
+  "q007:e1:m2": {
+    "name": [
+      "黃美玲"
+    ],
+    "national_id": [
+      "古134567890"
+    ],
+    "birth_date": [
+      "民國六十年四月一號"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 513,
+      "completion_tokens": 42,
+      "total_tokens": 555
+    }
+  },
+  "q007:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "黃美玲 身分證古一三四五六七八九零 民國六十年四月一號生",
+      "start": 5,
+      "end": 33,
+      "score": 0.9882017351113833
+    },
+    {
+      "category": "private_person",
+      "text": "張 凱基人壽",
+      "start": 41,
+      "end": 47,
+      "score": 0.9927777562822614
+    }
+  ],
+  "q007:e2:m2": {
+    "name": [
+      "黃美玲"
+    ],
+    "national_id": [
+      "古134567890"
+    ],
+    "birth_date": [
+      "民國六十年四月一號"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 517,
+      "completion_tokens": 42,
+      "total_tokens": 559
+    }
+  },
+  "q008:e1:m1": [],
+  "q008:e1:m2": {
+    "name": [
+      "文傑"
+    ],
+    "national_id": [
+      "夏日51234567"
+    ],
+    "birth_date": [
+      "民國75年6月18日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 42,
+      "total_tokens": 546
+    }
+  },
+  "q008:e2:m1": [
+    {
+      "category": "secret",
+      "text": "三四五六七 民國",
+      "start": 17,
+      "end": 25,
+      "score": 0.46323770710400175
+    }
+  ],
+  "q008:e2:m2": {
+    "name": [
+      "文傑"
+    ],
+    "national_id": [
+      "夏日五一二三四五六七"
+    ],
+    "birth_date": [
+      "民國七十五年六月十八號"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 505,
+      "completion_tokens": 47,
+      "total_tokens": 552
+    }
+  },
+  "q009:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我",
+      "start": 2,
+      "end": 4,
+      "score": 0.8160439729690552
+    },
+    {
+      "category": "private_person",
+      "text": "蔡雅婷 身分證123456789",
+      "start": 4,
+      "end": 20,
+      "score": 0.8967247671551175
+    },
+    {
+      "category": "private_person",
+      "text": " 八十二年五月十五",
+      "start": 20,
+      "end": 29,
+      "score": 0.6166953444480896
+    },
+    {
+      "category": "private_address",
+      "text": " 我這張新康泰的住院里輩標準 家和病房跟普通病房 戶數差",
+      "start": 38,
+      "end": 66,
+      "score": 0.9950977907730982
+    },
+    {
+      "category": "private_address",
+      "text": "很多",
+      "start": 66,
+      "end": 68,
+      "score": 0.6148759126663208
+    }
+  ],
+  "q009:e1:m2": {
+    "name": [
+      "蔡雅婷"
+    ],
+    "national_id": [
+      "123456789"
+    ],
+    "birth_date": [
+      "八十二年五月十五號"
+    ],
+    "policy_id": [
+      "新康泰"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 499,
+      "completion_tokens": 42,
+      "total_tokens": 541
+    }
+  },
+  "q009:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我",
+      "start": 2,
+      "end": 4,
+      "score": 0.8954849243164062
+    },
+    {
+      "category": "private_person",
+      "text": "蔡雅婷 身分證123456789 八十二年五月十五",
+      "start": 4,
+      "end": 29,
+      "score": 0.8893699603421348
+    },
+    {
+      "category": "private_address",
+      "text": " 我這張新康泰的住院理賠標準 加護病房跟普通病房 符合差",
+      "start": 38,
+      "end": 66,
+      "score": 0.978874871024379
+    }
+  ],
+  "q009:e2:m2": {
+    "name": [
+      "蔡雅婷"
+    ],
+    "national_id": [],
+    "birth_date": [
+      "八十二年五月十五號"
+    ],
+    "policy_id": [
+      "新康泰"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 500,
+      "completion_tokens": 38,
+      "total_tokens": 538
+    }
+  },
+  "q010:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "周建華 身",
+      "start": 4,
+      "end": 9,
+      "score": 0.6292816922068596
+    },
+    {
+      "category": "private_person",
+      "text": "證T215678",
+      "start": 10,
+      "end": 18,
+      "score": 0.7114072889089584
+    },
+    {
+      "category": "private_person",
+      "text": "張",
+      "start": 39,
+      "end": 40,
+      "score": 0.5245089530944824
+    }
+  ],
+  "q010:e1:m2": {
+    "name": [
+      "周建華"
+    ],
+    "national_id": [
+      "T215678901"
+    ],
+    "birth_date": [
+      "民國六十八年十一月三日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 42,
+      "total_tokens": 537
+    }
+  },
+  "q010:e2:m1": [],
+  "q010:e2:m2": {
+    "name": [
+      "周建華"
+    ],
+    "national_id": [
+      "K215678901"
+    ],
+    "birth_date": [
+      "民國六十八年十一月三日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 42,
+      "total_tokens": 536
+    }
+  },
+  "q011:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "劉怡",
+      "start": 5,
+      "end": 7,
+      "score": 0.47475407520929974
+    },
+    {
+      "category": "account_number",
+      "text": "宣",
+      "start": 7,
+      "end": 8,
+      "score": 0.3636741638183594
+    },
+    {
+      "category": "private_address",
+      "text": " 身",
+      "start": 8,
+      "end": 10,
+      "score": 0.3009949326515198
+    },
+    {
+      "category": "private_person",
+      "text": "分證A234",
+      "start": 10,
+      "end": 16,
+      "score": 0.5361209809780121
+    },
+    {
+      "category": "account_number",
+      "text": "567",
+      "start": 16,
+      "end": 19,
+      "score": 0.39991384744644165
+    },
+    {
+      "category": "private_person",
+      "text": "891",
+      "start": 19,
+      "end": 22,
+      "score": 0.3515264391899109
+    },
+    {
+      "category": "private_address",
+      "text": " 民國七十一年二月",
+      "start": 22,
+      "end": 31,
+      "score": 0.3937658795288631
+    },
+    {
+      "category": "account_number",
+      "text": "十四",
+      "start": 31,
+      "end": 33,
+      "score": 0.402457594871521
+    },
+    {
+      "category": "private_address",
+      "text": "號",
+      "start": 33,
+      "end": 34,
+      "score": 0.5177173018455505
+    },
+    {
+      "category": "account_number",
+      "text": "生",
+      "start": 34,
+      "end": 35,
+      "score": 0.47304707765579224
+    }
+  ],
+  "q011:e1:m2": {
+    "name": [
+      "劉怡宣"
+    ],
+    "national_id": [
+      "A234567891"
+    ],
+    "birth_date": [
+      "民國七十一年二月十四號"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 43,
+      "total_tokens": 538
+    }
+  },
+  "q011:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "劉",
+      "start": 5,
+      "end": 6,
+      "score": 0.38891395926475525
+    },
+    {
+      "category": "private_address",
+      "text": "怡",
+      "start": 6,
+      "end": 7,
+      "score": 0.29140713810920715
+    },
+    {
+      "category": "account_number",
+      "text": "宣 身",
+      "start": 7,
+      "end": 10,
+      "score": 0.4111297279596329
+    },
+    {
+      "category": "secret",
+      "text": "分證",
+      "start": 10,
+      "end": 12,
+      "score": 0.28317688405513763
+    },
+    {
+      "category": "private_address",
+      "text": "234",
+      "start": 13,
+      "end": 16,
+      "score": 0.2536539137363434
+    },
+    {
+      "category": "account_number",
+      "text": "567",
+      "start": 16,
+      "end": 19,
+      "score": 0.3667474389076233
+    },
+    {
+      "category": "private_address",
+      "text": "891 民國七十一年二月十四號",
+      "start": 19,
+      "end": 34,
+      "score": 0.40835232734680177
+    },
+    {
+      "category": "account_number",
+      "text": "生",
+      "start": 34,
+      "end": 35,
+      "score": 0.42988336086273193
+    }
+  ],
+  "q011:e2:m2": {
+    "name": [
+      "劉怡宣"
+    ],
+    "national_id": [
+      "A234567891"
+    ],
+    "birth_date": [
+      "民國七十一年二月十四號"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 497,
+      "completion_tokens": 43,
+      "total_tokens": 540
+    }
+  },
+  "q012:e1:m1": [
+    {
+      "category": "private_address",
+      "text": "鄭",
+      "start": 4,
+      "end": 5,
+      "score": 0.41684696078300476
+    },
+    {
+      "category": "private_person",
+      "text": "鄭",
+      "start": 4,
+      "end": 5,
+      "score": 0.39242589473724365
+    },
+    {
+      "category": "secret",
+      "text": "文",
+      "start": 5,
+      "end": 6,
+      "score": 0.3392171561717987
+    },
+    {
+      "category": "private_address",
+      "text": "豪 身分證BEN112345670 民國五十九年",
+      "start": 6,
+      "end": 30,
+      "score": 0.5030193283007696
+    },
+    {
+      "category": "private_person",
+      "text": "十月八",
+      "start": 30,
+      "end": 33,
+      "score": 0.44038233160972595
+    }
+  ],
+  "q012:e1:m2": {
+    "name": [
+      "鄭文豪"
+    ],
+    "national_id": [
+      "BEN112345670"
+    ],
+    "birth_date": [
+      "民國五十九年十月八號"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 496,
+      "completion_tokens": 43,
+      "total_tokens": 539
+    }
+  },
+  "q012:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我鄭文",
+      "start": 2,
+      "end": 6,
+      "score": 0.7142560184001923
+    },
+    {
+      "category": "private_address",
+      "text": "豪 身分",
+      "start": 6,
+      "end": 10,
+      "score": 0.5085963010787964
+    },
+    {
+      "category": "private_person",
+      "text": "證",
+      "start": 10,
+      "end": 11,
+      "score": 0.43583452701568604
+    },
+    {
+      "category": "private_address",
+      "text": "BEN112345670 民國五",
+      "start": 11,
+      "end": 27,
+      "score": 0.473087625844138
+    },
+    {
+      "category": "private_person",
+      "text": "十九",
+      "start": 27,
+      "end": 29,
+      "score": 0.4310268759727478
+    },
+    {
+      "category": "private_address",
+      "text": "年",
+      "start": 29,
+      "end": 30,
+      "score": 0.43476951122283936
+    },
+    {
+      "category": "private_person",
+      "text": "十月八",
+      "start": 30,
+      "end": 33,
+      "score": 0.4741531312465668
+    }
+  ],
+  "q012:e2:m2": {
+    "name": [
+      "鄭文豪"
+    ],
+    "national_id": [
+      "BEN112345670"
+    ],
+    "birth_date": [
+      "民國五十九年十月八日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 501,
+      "completion_tokens": 43,
+      "total_tokens": 544
+    }
+  },
+  "q013:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "楊雅雯 身分證C234567812 民國七十三年八月十六日",
+      "start": 5,
+      "end": 34,
+      "score": 0.92709850452163
+    },
+    {
+      "category": "private_date",
+      "text": "生",
+      "start": 34,
+      "end": 35,
+      "score": 0.7172476649284363
+    }
+  ],
+  "q013:e1:m2": {
+    "name": [
+      "楊雅雯"
+    ],
+    "national_id": [
+      "C234567812"
+    ],
+    "birth_date": [
+      "民國七十三年八月十六日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 506,
+      "completion_tokens": 45,
+      "total_tokens": 551
+    }
+  },
+  "q013:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "楊雅雯 身分證C234567812 民國七十三年八月十六日",
+      "start": 5,
+      "end": 34,
+      "score": 0.9606018554080616
+    },
+    {
+      "category": "private_date",
+      "text": "生",
+      "start": 34,
+      "end": 35,
+      "score": 0.5033925771713257
+    },
+    {
+      "category": "private_person",
+      "text": "張凱基生 空殼住院",
+      "start": 44,
+      "end": 53,
+      "score": 0.7353747487068176
+    }
+  ],
+  "q013:e2:m2": {
+    "name": [
+      "楊雅雯"
+    ],
+    "national_id": [
+      "C234567812"
+    ],
+    "birth_date": [
+      "民國七十三年八月十六日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 508,
+      "completion_tokens": 45,
+      "total_tokens": 553
+    }
+  },
+  "q014:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "賴志偉 身分證131234560 民國六",
+      "start": 4,
+      "end": 24,
+      "score": 0.8601545776639666
+    },
+    {
+      "category": "private_date",
+      "text": "十",
+      "start": 24,
+      "end": 25,
+      "score": 0.49413740634918213
+    },
+    {
+      "category": "private_person",
+      "text": "六",
+      "start": 25,
+      "end": 26,
+      "score": 0.5126895308494568
+    },
+    {
+      "category": "private_date",
+      "text": "年",
+      "start": 26,
+      "end": 27,
+      "score": 0.6920830011367798
+    },
+    {
+      "category": "private_person",
+      "text": "五月一日",
+      "start": 27,
+      "end": 31,
+      "score": 0.5800246099630991
+    }
+  ],
+  "q014:e1:m2": {
+    "name": [
+      "賴志偉"
+    ],
+    "national_id": [
+      "131234560"
+    ],
+    "birth_date": [
+      "民國六十六年五月一日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "桃園"
+    ],
+    "_usage": {
+      "prompt_tokens": 501,
+      "completion_tokens": 46,
+      "total_tokens": 547
+    }
+  },
+  "q014:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "賴志偉 身分證 民國六十六年五月一日生",
+      "start": 4,
+      "end": 23,
+      "score": 0.8546242515246073
+    }
+  ],
+  "q014:e2:m2": {
+    "name": [
+      "賴志偉"
+    ],
+    "national_id": [],
+    "birth_date": [
+      "民國66年5月1日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 499,
+      "completion_tokens": 38,
+      "total_tokens": 537
+    }
+  },
+  "q015:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "何美華 身分證1212345671 民國七十六年三月二十日生",
+      "start": 5,
+      "end": 35,
+      "score": 0.914280425418507
+    }
+  ],
+  "q015:e1:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [
+      "1212345671"
+    ],
+    "birth_date": [
+      "民國七十六年三月二十日"
+    ],
+    "policy_id": [
+      "太極想安心的傷害險"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 505,
+      "completion_tokens": 54,
+      "total_tokens": 559
+    }
+  },
+  "q015:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "何美華 身分證1212345671 民國七十六年三月二十日生",
+      "start": 5,
+      "end": 35,
+      "score": 0.8302928006107156
+    }
+  ],
+  "q015:e2:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [
+      "1212345671"
+    ],
+    "birth_date": [
+      "民國七十六年三月二十日"
+    ],
+    "policy_id": [
+      "凱基最安心的傷害險"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 506,
+      "completion_tokens": 55,
+      "total_tokens": 561
+    }
+  },
+  "q016:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "蘇健文 身分證F134567890 民國六十二年九月十二日",
+      "start": 4,
+      "end": 33,
+      "score": 0.7762082383036614
+    }
+  ],
+  "q016:e1:m2": {
+    "name": [
+      "蘇健文"
+    ],
+    "national_id": [
+      "F134567890"
+    ],
+    "birth_date": [
+      "民國六十二年九月十二日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 43,
+      "total_tokens": 538
+    }
+  },
+  "q016:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我蘇健文 身分證F134567890 民國六十二",
+      "start": 2,
+      "end": 27,
+      "score": 0.7568001318722963
+    },
+    {
+      "category": "private_date",
+      "text": "年九月十二日生",
+      "start": 27,
+      "end": 34,
+      "score": 0.495992715160052
+    }
+  ],
+  "q016:e2:m2": {
+    "name": [
+      "蘇健文"
+    ],
+    "national_id": [
+      "F134567890"
+    ],
+    "birth_date": [
+      "民國六十二年九月十二日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 497,
+      "completion_tokens": 43,
+      "total_tokens": 540
+    }
+  },
+  "q017:e1:m1": [
+    {
+      "category": "private_address",
+      "text": "廖淑娟 身分證G225678901 民國七十四年七月二十八日",
+      "start": 5,
+      "end": 35,
+      "score": 0.9367620919061743
+    },
+    {
+      "category": "private_date",
+      "text": "生",
+      "start": 35,
+      "end": 36,
+      "score": 0.5311316847801208
+    }
+  ],
+  "q017:e1:m2": {
+    "name": [
+      "廖淑娟"
+    ],
+    "national_id": [
+      "G225678901"
+    ],
+    "birth_date": [
+      "民國七十四年七月二十八日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 502,
+      "completion_tokens": 46,
+      "total_tokens": 548
+    }
+  },
+  "q017:e2:m1": [
+    {
+      "category": "private_address",
+      "text": "廖淑娟 身分證G225678901 民國七十四年七月二十八日",
+      "start": 5,
+      "end": 35,
+      "score": 0.8362850339516349
+    },
+    {
+      "category": "private_date",
+      "text": "生",
+      "start": 35,
+      "end": 36,
+      "score": 0.8885968923568726
+    }
+  ],
+  "q017:e2:m2": {
+    "name": [
+      "廖淑娟"
+    ],
+    "national_id": [
+      "G225678901"
+    ],
+    "birth_date": [
+      "民國七十四年七月二十八日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 46,
+      "total_tokens": 550
+    }
+  },
+  "q018:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我江俊德 身分證H14-321-5679 民國",
+      "start": 2,
+      "end": 26,
+      "score": 0.8391549587249756
+    },
+    {
+      "category": "private_date",
+      "text": "六十九年十二月二日",
+      "start": 26,
+      "end": 35,
+      "score": 0.847020515373775
+    }
+  ],
+  "q018:e1:m2": {
+    "name": [
+      "江俊德"
+    ],
+    "national_id": [
+      "H14-321-5679"
+    ],
+    "birth_date": [
+      "民國六十九年十二月二日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 505,
+      "completion_tokens": 45,
+      "total_tokens": 550
+    }
+  },
+  "q018:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我江俊德 身分證H14-321-5679 民國六十九年十二月二",
+      "start": 2,
+      "end": 34,
+      "score": 0.9150186560370706
+    },
+    {
+      "category": "private_date",
+      "text": "日",
+      "start": 34,
+      "end": 35,
+      "score": 0.4507400691509247
+    }
+  ],
+  "q018:e2:m2": {
+    "name": [
+      "江俊德"
+    ],
+    "national_id": [
+      "H14-321-5679"
+    ],
+    "birth_date": [
+      "民國六十九年十二月二日"
+    ],
+    "policy_id": [
+      "新康泰"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 506,
+      "completion_tokens": 49,
+      "total_tokens": 555
+    }
+  },
+  "q019:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "陳大天 身分證A123456789 民國七十年三月五日生 保單號碼K",
+      "start": 5,
+      "end": 39,
+      "score": 0.9766294474785144
+    },
+    {
+      "category": "account_number",
+      "text": "GI2024001234",
+      "start": 39,
+      "end": 51,
+      "score": 0.6633468508720398
+    }
+  ],
+  "q019:e1:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [
+      "A123456789"
+    ],
+    "birth_date": [
+      "民國七十年三月五日"
+    ],
+    "policy_id": [
+      "KGI2024001234"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 50,
+      "total_tokens": 554
+    }
+  },
+  "q019:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "陳大天 身分證A123456789 民國七十年三月五日生 保單號碼K",
+      "start": 5,
+      "end": 39,
+      "score": 0.9766294474785144
+    },
+    {
+      "category": "account_number",
+      "text": "GI2024001234",
+      "start": 39,
+      "end": 51,
+      "score": 0.6633468508720398
+    }
+  ],
+  "q019:e2:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [
+      "A123456789"
+    ],
+    "birth_date": [
+      "民國七十年三月五日"
+    ],
+    "policy_id": [
+      "KGI2024001234"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 50,
+      "total_tokens": 554
+    }
+  },
+  "q020:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "邱雅芳",
+      "start": 4,
+      "end": 7,
+      "score": 0.8895944058895111
+    },
+    {
+      "category": "private_person",
+      "text": " 身分證宅234567890",
+      "start": 7,
+      "end": 21,
+      "score": 0.8764400482177734
+    },
+    {
+      "category": "private_address",
+      "text": " 民國七十八年",
+      "start": 21,
+      "end": 28,
+      "score": 0.5194652259349823
+    },
+    {
+      "category": "private_person",
+      "text": "四月",
+      "start": 28,
+      "end": 30,
+      "score": 0.4671614170074463
+    },
+    {
+      "category": "private_address",
+      "text": "十一日生 保單號",
+      "start": 30,
+      "end": 38,
+      "score": 0.5443397760391235
+    },
+    {
+      "category": "private_person",
+      "text": "K 20180042",
+      "start": 38,
+      "end": 48,
+      "score": 0.6522123217582703
+    }
+  ],
+  "q020:e1:m2": {
+    "name": [
+      "邱雅芳"
+    ],
+    "national_id": [
+      "宅234567890"
+    ],
+    "birth_date": [
+      "民國七十八年四月十一日"
+    ],
+    "policy_id": [
+      "K20180042"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 509,
+      "completion_tokens": 48,
+      "total_tokens": 557
+    }
+  },
+  "q020:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "邱雅芳",
+      "start": 4,
+      "end": 7,
+      "score": 0.8389448150992393
+    },
+    {
+      "category": "private_address",
+      "text": " 身分證 宅234567890 民國七十八年四月十一日生 保單號K 20180042",
+      "start": 7,
+      "end": 49,
+      "score": 0.9237416604390511
+    }
+  ],
+  "q020:e2:m2": {
+    "name": [
+      "邱雅芳"
+    ],
+    "national_id": [
+      "宅234567890"
+    ],
+    "birth_date": [
+      "民國七十八年四月十一日"
+    ],
+    "policy_id": [
+      "K20180042"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 510,
+      "completion_tokens": 48,
+      "total_tokens": 558
+    }
+  },
+  "q021:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我莊國維 身分證K123456780 民",
+      "start": 2,
+      "end": 23,
+      "score": 0.7946101793876061
+    },
+    {
+      "category": "private_address",
+      "text": "國六十一年六月十號生 保單",
+      "start": 23,
+      "end": 36,
+      "score": 0.5910613685846329
+    },
+    {
+      "category": "account_number",
+      "text": "號碼2020987654",
+      "start": 36,
+      "end": 48,
+      "score": 0.7838164269924164
+    },
+    {
+      "category": "private_person",
+      "text": "這張 新康台",
+      "start": 55,
+      "end": 61,
+      "score": 0.7917326331138611
+    },
+    {
+      "category": "private_person",
+      "text": " 我",
+      "start": 67,
+      "end": 69,
+      "score": 0.5309403538703918
+    },
+    {
+      "category": "private_address",
+      "text": "開刀住",
+      "start": 69,
+      "end": 72,
+      "score": 0.5889737010002136
+    },
+    {
+      "category": "private_person",
+      "text": "三天",
+      "start": 72,
+      "end": 74,
+      "score": 0.7765433192253113
+    }
+  ],
+  "q021:e1:m2": {
+    "name": [
+      "莊國維"
+    ],
+    "national_id": [
+      "K123456780"
+    ],
+    "birth_date": [
+      "民國六十一年六月十號"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 502,
+      "completion_tokens": 42,
+      "total_tokens": 544
+    }
+  },
+  "q021:e2:m1": [
+    {
+      "category": "secret",
+      "text": "456780",
+      "start": 16,
+      "end": 22,
+      "score": 0.5313627570867538
+    },
+    {
+      "category": "private_date",
+      "text": " 民國",
+      "start": 22,
+      "end": 25,
+      "score": 0.404535248875618
+    },
+    {
+      "category": "secret",
+      "text": "六",
+      "start": 25,
+      "end": 26,
+      "score": 0.4486542046070099
+    },
+    {
+      "category": "private_date",
+      "text": "十一",
+      "start": 26,
+      "end": 28,
+      "score": 0.44839155673980713
+    },
+    {
+      "category": "secret",
+      "text": "年",
+      "start": 28,
+      "end": 29,
+      "score": 0.6436097621917725
+    },
+    {
+      "category": "private_date",
+      "text": "六月",
+      "start": 29,
+      "end": 31,
+      "score": 0.5092403888702393
+    },
+    {
+      "category": "secret",
+      "text": "十",
+      "start": 31,
+      "end": 32,
+      "score": 0.7638959884643555
+    },
+    {
+      "category": "private_date",
+      "text": "日出生 保單號",
+      "start": 32,
+      "end": 39,
+      "score": 0.5946265816688537
+    },
+    {
+      "category": "secret",
+      "text": "碼",
+      "start": 39,
+      "end": 40,
+      "score": 0.48045891523361206
+    },
+    {
+      "category": "private_date",
+      "text": "202098765",
+      "start": 40,
+      "end": 49,
+      "score": 0.45666414499282837
+    },
+    {
+      "category": "account_number",
+      "text": "4",
+      "start": 49,
+      "end": 50,
+      "score": 0.5731980204582214
+    },
+    {
+      "category": "private_address",
+      "text": "泰",
+      "start": 62,
+      "end": 63,
+      "score": 0.43920838832855225
+    },
+    {
+      "category": "private_date",
+      "text": "賠金",
+      "start": 67,
+      "end": 69,
+      "score": 0.43292983373006183
+    },
+    {
+      "category": "private_address",
+      "text": " 我",
+      "start": 69,
+      "end": 71,
+      "score": 0.3134669065475464
+    },
+    {
+      "category": "private_date",
+      "text": "開刀住",
+      "start": 71,
+      "end": 74,
+      "score": 0.5344268182913462
+    }
+  ],
+  "q021:e2:m2": {
+    "name": [
+      "曾國維"
+    ],
+    "national_id": [
+      "K123456780"
+    ],
+    "birth_date": [
+      "民國六十一年六月十日"
+    ],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 502,
+      "completion_tokens": 41,
+      "total_tokens": 543
+    }
+  },
+  "q022:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "黃美鈴 身分證告一三四五六七八九零 民國六十年四月一號星 保單號二○二三○○一一 替",
+      "start": 5,
+      "end": 47,
+      "score": 0.9946980178356171
+    },
+    {
+      "category": "private_person",
+      "text": " 適齡保險金",
+      "start": 65,
+      "end": 71,
+      "score": 0.9883301705121994
+    }
+  ],
+  "q022:e1:m2": {
+    "name": [
+      "黃美鈴"
+    ],
+    "national_id": [
+      "A134567890"
+    ],
+    "birth_date": [
+      "民國60年4月1日"
+    ],
+    "policy_id": [
+      "202300111"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 526,
+      "completion_tokens": 46,
+      "total_tokens": 572
+    }
+  },
+  "q022:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "黃美鈴 身分證告一三四五六七八九零 民國六十年四月一號星 保單號二○二三○○一一 幫",
+      "start": 5,
+      "end": 47,
+      "score": 0.9903830394148827
+    },
+    {
+      "category": "private_person",
+      "text": "的適齡保險金",
+      "start": 63,
+      "end": 69,
+      "score": 0.7914018668234348
+    }
+  ],
+  "q022:e2:m2": {
+    "name": [
+      "黃美鈴"
+    ],
+    "national_id": [
+      "A134567890"
+    ],
+    "birth_date": [
+      "民國60年4月1日"
+    ],
+    "policy_id": [
+      "202300111"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 526,
+      "completion_tokens": 46,
+      "total_tokens": 572
+    }
+  },
+  "q023:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強 身分證231234567 民國七十二年九月二十五日生 保單號K2019005678",
+      "start": 3,
+      "end": 48,
+      "score": 0.9870094699519021
+    }
+  ],
+  "q023:e1:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [
+      "231234567"
+    ],
+    "birth_date": [
+      "民國七十二年九月二十五日"
+    ],
+    "policy_id": [
+      "K2019005678"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 48,
+      "total_tokens": 552
+    }
+  },
+  "q023:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強 身分證231234567 民國七十二年九月二十五日生 保單號K2019005678",
+      "start": 3,
+      "end": 48,
+      "score": 0.9752385020256042
+    }
+  ],
+  "q023:e2:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [
+      "231234567"
+    ],
+    "birth_date": [
+      "民國七十二年九月二十五日"
+    ],
+    "policy_id": [
+      "K2019005678"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 506,
+      "completion_tokens": 48,
+      "total_tokens": 554
+    }
+  },
+  "q024:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬",
+      "start": 4,
+      "end": 7,
+      "score": 0.994548887014389
+    },
+    {
+      "category": "private_date",
+      "text": "2012-34567",
+      "start": 12,
+      "end": 22,
+      "score": 0.8905321478843689
+    }
+  ],
+  "q024:e1:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [
+      "B2012-34567"
+    ],
+    "birth_date": [
+      "民國五十八年八月十二日"
+    ],
+    "policy_id": [
+      "KGI2022555888"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 513,
+      "completion_tokens": 52,
+      "total_tokens": 565
+    }
+  },
+  "q024:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬",
+      "start": 4,
+      "end": 7,
+      "score": 0.9443652331829071
+    },
+    {
+      "category": "private_person",
+      "text": " 身",
+      "start": 7,
+      "end": 9,
+      "score": 0.5150159001350403
+    },
+    {
+      "category": "account_number",
+      "text": "分證B201",
+      "start": 9,
+      "end": 15,
+      "score": 0.5805464088916779
+    },
+    {
+      "category": "private_date",
+      "text": "234",
+      "start": 15,
+      "end": 18,
+      "score": 0.26254624128341675
+    },
+    {
+      "category": "private_date",
+      "text": "月",
+      "start": 29,
+      "end": 30,
+      "score": 0.5451494455337524
+    },
+    {
+      "category": "private_date",
+      "text": "單",
+      "start": 36,
+      "end": 37,
+      "score": 0.4485081732273102
+    },
+    {
+      "category": "account_number",
+      "text": "GI2022555888",
+      "start": 39,
+      "end": 51,
+      "score": 0.5725415647029877
+    }
+  ],
+  "q024:e2:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [
+      "B201234567"
+    ],
+    "birth_date": [
+      "民國五十八年八月十二日"
+    ],
+    "policy_id": [
+      "KGI2022555888"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 510,
+      "completion_tokens": 50,
+      "total_tokens": 560
+    }
+  },
+  "q025:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我",
+      "start": 2,
+      "end": 4,
+      "score": 0.5944759845733643
+    },
+    {
+      "category": "private_address",
+      "text": " 改成台北市信義區 忠孝東路5段123號",
+      "start": 31,
+      "end": 51,
+      "score": 0.9766057259158084
+    },
+    {
+      "category": "private_address",
+      "text": "謝",
+      "start": 52,
+      "end": 53,
+      "score": 0.5390131771564484
+    }
+  ],
+  "q025:e1:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "台北市信義區忠孝東路5段123號"
+    ],
+    "_usage": {
+      "prompt_tokens": 496,
+      "completion_tokens": 44,
+      "total_tokens": 540
+    }
+  },
+  "q025:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我陳大天",
+      "start": 2,
+      "end": 7,
+      "score": 0.94575936794281
+    },
+    {
+      "category": "private_person",
+      "text": "張 凱基",
+      "start": 19,
+      "end": 23,
+      "score": 0.8738966435194016
+    },
+    {
+      "category": "private_address",
+      "text": " 改成台北市信義區 忠孝東路五段一二三號",
+      "start": 31,
+      "end": 51,
+      "score": 0.9768504585538592
+    },
+    {
+      "category": "private_person",
+      "text": " 謝謝",
+      "start": 51,
+      "end": 54,
+      "score": 0.7689600139856339
+    }
+  ],
+  "q025:e2:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "凱基想安心"
+    ],
+    "phone": [],
+    "address": [
+      "台北市信義區忠孝東路五段一二三號"
+    ],
+    "_usage": {
+      "prompt_tokens": 498,
+      "completion_tokens": 52,
+      "total_tokens": 550
+    }
+  },
+  "q026:e1:m1": [
+    {
+      "category": "private_address",
+      "text": "新北市板橋區文化路 二段五十號八樓 就地址已經不住了",
+      "start": 25,
+      "end": 51,
+      "score": 0.9906145090406592
+    }
+  ],
+  "q026:e1:m2": {
+    "name": [
+      "許文傑"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "新北市板橋區文化路二段五十號八樓"
+    ],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 44,
+      "total_tokens": 538
+    }
+  },
+  "q026:e2:m1": [
+    {
+      "category": "private_address",
+      "text": "新北市板橋區文化路 二段五十號八樓 就地址已經不住了",
+      "start": 25,
+      "end": 51,
+      "score": 0.9873258688233115
+    }
+  ],
+  "q026:e2:m2": {
+    "name": [
+      "許文傑"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "新北市板橋區文化路二段五十號八樓"
+    ],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 44,
+      "total_tokens": 538
+    }
+  },
+  "q027:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "蔡雅婷 麻煩幫",
+      "start": 5,
+      "end": 12,
+      "score": 0.9998222440481186
+    },
+    {
+      "category": "private_address",
+      "text": " 台中市西區英才路200號 順便幫",
+      "start": 27,
+      "end": 44,
+      "score": 0.9637304464975993
+    }
+  ],
+  "q027:e1:m2": {
+    "name": [
+      "蔡雅婷"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "台中市西區英才路200號"
+    ],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 38,
+      "total_tokens": 542
+    }
+  },
+  "q027:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "蔡雅婷 麻煩幫",
+      "start": 5,
+      "end": 12,
+      "score": 0.9998222440481186
+    },
+    {
+      "category": "private_address",
+      "text": " 台中市西區英才路200號 順便幫",
+      "start": 27,
+      "end": 44,
+      "score": 0.9637304464975993
+    }
+  ],
+  "q027:e2:m2": {
+    "name": [
+      "蔡雅婷"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "台中市西區英才路200號"
+    ],
+    "_usage": {
+      "prompt_tokens": 504,
+      "completion_tokens": 38,
+      "total_tokens": 542
+    }
+  },
+  "q028:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我",
+      "start": 2,
+      "end": 4,
+      "score": 0.5919458866119385
+    },
+    {
+      "category": "private_person",
+      "text": "林淑芬 最近搬家 麻煩幫",
+      "start": 4,
+      "end": 16,
+      "score": 0.9825821022192637
+    },
+    {
+      "category": "private_address",
+      "text": " 同姓地址改成 高雄市三民區建公路五百號 從下個月開始用新地址",
+      "start": 23,
+      "end": 54,
+      "score": 0.9718453081754538
+    }
+  ],
+  "q028:e1:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "高雄市三民區建公路五百號"
+    ],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 41,
+      "total_tokens": 535
+    }
+  },
+  "q028:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我林淑芬 最近搬家 麻煩幫",
+      "start": 2,
+      "end": 16,
+      "score": 0.9598885499514066
+    },
+    {
+      "category": "private_address",
+      "text": "療附約的同姓地址 改成高雄市三民區建公路五百號 從下個月開始用新地址",
+      "start": 19,
+      "end": 53,
+      "score": 0.9628397437833971
+    }
+  ],
+  "q028:e2:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "高雄市三民區建公路五百號"
+    ],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 41,
+      "total_tokens": 536
+    }
+  },
+  "q029:e1:m1": [
+    {
+      "category": "private_address",
+      "text": "桃園市中壢區中央西路 三段三百號",
+      "start": 25,
+      "end": 41,
+      "score": 0.9930546641349792
+    }
+  ],
+  "q029:e1:m2": {
+    "name": [
+      "吳義真"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "桃園市中壢區中央西路三段三百號"
+    ],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 44,
+      "total_tokens": 533
+    }
+  },
+  "q029:e2:m1": [
+    {
+      "category": "private_address",
+      "text": " 改成桃園市中壢區中央西路 三段三百號",
+      "start": 22,
+      "end": 41,
+      "score": 0.9979312486118741
+    }
+  ],
+  "q029:e2:m2": {
+    "name": [
+      "吳義真"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "桃園市中壢區中央西路三段三百號"
+    ],
+    "_usage": {
+      "prompt_tokens": 492,
+      "completion_tokens": 44,
+      "total_tokens": 536
+    }
+  },
+  "q030:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "王小明 書",
+      "start": 4,
+      "end": 9,
+      "score": 0.998520803451538
+    },
+    {
+      "category": "private_address",
+      "text": "改成台南市 東區大學路一號 麻煩",
+      "start": 10,
+      "end": 26,
+      "score": 0.9631575663884481
+    },
+    {
+      "category": "private_address",
+      "text": "這張 太極神空台",
+      "start": 28,
+      "end": 36,
+      "score": 0.7782823698861259
+    }
+  ],
+  "q030:e1:m2": {
+    "name": [
+      "王小明"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "太極神空台"
+    ],
+    "phone": [],
+    "address": [
+      "台南市東區大學路一號"
+    ],
+    "_usage": {
+      "prompt_tokens": 499,
+      "completion_tokens": 44,
+      "total_tokens": 543
+    }
+  },
+  "q030:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "王小明 書",
+      "start": 4,
+      "end": 9,
+      "score": 0.977577292919159
+    }
+  ],
+  "q030:e2:m2": {
+    "name": [
+      "王小明"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "凱基人壽",
+      "心康泰"
+    ],
+    "phone": [],
+    "address": [
+      "台南市東區大學路一號"
+    ],
+    "_usage": {
+      "prompt_tokens": 505,
+      "completion_tokens": 49,
+      "total_tokens": 554
+    }
+  },
+  "q031:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我黃美玲",
+      "start": 2,
+      "end": 7,
+      "score": 0.9965665489435196
+    },
+    {
+      "category": "private_address",
+      "text": "新竹市東區光復路 二段150號 請幫",
+      "start": 12,
+      "end": 30,
+      "score": 0.8962734248489141
+    }
+  ],
+  "q031:e1:m2": {
+    "name": [
+      "黃美玲"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "新竹市東區光復路二段150號"
+    ],
+    "_usage": {
+      "prompt_tokens": 493,
+      "completion_tokens": 40,
+      "total_tokens": 533
+    }
+  },
+  "q031:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我黃美玲",
+      "start": 2,
+      "end": 7,
+      "score": 0.9969130009412766
+    },
+    {
+      "category": "private_address",
+      "text": "新竹市東區",
+      "start": 12,
+      "end": 17,
+      "score": 0.7382686853408813
+    },
+    {
+      "category": "private_person",
+      "text": "光復路 二段150號 請幫",
+      "start": 17,
+      "end": 30,
+      "score": 0.7291543036699295
+    }
+  ],
+  "q031:e2:m2": {
+    "name": [
+      "黃美玲"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "新竹市東區光復路二段150號"
+    ],
+    "_usage": {
+      "prompt_tokens": 496,
+      "completion_tokens": 40,
+      "total_tokens": 536
+    }
+  },
+  "q032:e1:m1": [],
+  "q032:e1:m2": {
+    "name": [
+      "周建華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "基隆市中正區中正路100號"
+    ],
+    "_usage": {
+      "prompt_tokens": 498,
+      "completion_tokens": 39,
+      "total_tokens": 537
+    }
+  },
+  "q032:e2:m1": [],
+  "q032:e2:m2": {
+    "name": [
+      "周建華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [
+      "基隆市中正區中正路100號"
+    ],
+    "_usage": {
+      "prompt_tokens": 499,
+      "completion_tokens": 39,
+      "total_tokens": 538
+    }
+  },
+  "q033:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強 請幫",
+      "start": 3,
+      "end": 9,
+      "score": 0.9797713905572891
+    },
+    {
+      "category": "private_person",
+      "text": "那張凱基辛康泰",
+      "start": 11,
+      "end": 18,
+      "score": 0.9907191544771194
+    },
+    {
+      "category": "private_phone",
+      "text": "0912345678",
+      "start": 26,
+      "end": 36,
+      "score": 0.9999732971191406
+    }
+  ],
+  "q033:e1:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "凱基辛康泰"
+    ],
+    "phone": [
+      "0912345678"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 39,
+      "total_tokens": 528
+    }
+  },
+  "q033:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強 請幫",
+      "start": 3,
+      "end": 9,
+      "score": 0.9810093268752098
+    },
+    {
+      "category": "private_person",
+      "text": "那張凱基 心康泰的",
+      "start": 11,
+      "end": 20,
+      "score": 0.9822831749916077
+    },
+    {
+      "category": "private_phone",
+      "text": "0912345678",
+      "start": 27,
+      "end": 37,
+      "score": 0.9999635815620422
+    }
+  ],
+  "q033:e2:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "心康泰"
+    ],
+    "phone": [
+      "0912345678"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 36,
+      "total_tokens": 525
+    }
+  },
+  "q034:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我邱雅芳 麻煩",
+      "start": 2,
+      "end": 10,
+      "score": 0.9549914225935936
+    },
+    {
+      "category": "account_number",
+      "text": "0928123456",
+      "start": 29,
+      "end": 39,
+      "score": 0.7738099992275238
+    }
+  ],
+  "q034:e1:m2": {
+    "name": [
+      "邱雅芳"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [
+      "0928123456"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 33,
+      "total_tokens": 521
+    }
+  },
+  "q034:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我邱雅芳 麻煩",
+      "start": 2,
+      "end": 10,
+      "score": 0.6957780495285988
+    },
+    {
+      "category": "account_number",
+      "text": "0928123456",
+      "start": 29,
+      "end": 39,
+      "score": 0.8121285885572433
+    }
+  ],
+  "q034:e2:m2": {
+    "name": [
+      "邱雅芳"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [
+      "0928123456"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 33,
+      "total_tokens": 520
+    }
+  },
+  "q035:e1:m1": [
+    {
+      "category": "private_phone",
+      "text": "0933987654",
+      "start": 24,
+      "end": 34,
+      "score": 0.9999906420707703
+    }
+  ],
+  "q035:e1:m2": {
+    "name": [
+      "李正宏"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [
+      "0933987654"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 482,
+      "completion_tokens": 32,
+      "total_tokens": 514
+    }
+  },
+  "q035:e2:m1": [
+    {
+      "category": "private_phone",
+      "text": "0933 987654",
+      "start": 24,
+      "end": 35,
+      "score": 0.9999709129333496
+    }
+  ],
+  "q035:e2:m2": {
+    "name": [
+      "李正宏"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [
+      "0933-987654"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 33,
+      "total_tokens": 516
+    }
+  },
+  "q036:e1:m1": [
+    {
+      "category": "private_phone",
+      "text": "092211333",
+      "start": 26,
+      "end": 35,
+      "score": 0.986610988775889
+    }
+  ],
+  "q036:e1:m2": {
+    "name": [
+      "廖淑娟"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "太極響安心"
+    ],
+    "phone": [
+      "092211333"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 39,
+      "total_tokens": 522
+    }
+  },
+  "q036:e2:m1": [
+    {
+      "category": "private_phone",
+      "text": "092211333",
+      "start": 25,
+      "end": 34,
+      "score": 0.9840677380561829
+    }
+  ],
+  "q036:e2:m2": {
+    "name": [
+      "廖淑娟"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "太極響安心"
+    ],
+    "phone": [
+      "092211333"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 39,
+      "total_tokens": 522
+    }
+  },
+  "q037:e1:m1": [
+    {
+      "category": "private_phone",
+      "text": "0987654321",
+      "start": 12,
+      "end": 22,
+      "score": 0.9996230602264404
+    }
+  ],
+  "q037:e1:m2": {
+    "name": [
+      "蘇建文"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [
+      "0987654321"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 33,
+      "total_tokens": 522
+    }
+  },
+  "q037:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "文",
+      "start": 6,
+      "end": 7,
+      "score": 0.5909817814826965
+    },
+    {
+      "category": "private_phone",
+      "text": "0987654321",
+      "start": 12,
+      "end": 22,
+      "score": 0.9998702853918076
+    }
+  ],
+  "q037:e2:m2": {
+    "name": [
+      "蘇建文"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [
+      "0987654321"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 33,
+      "total_tokens": 520
+    }
+  },
+  "q038:e1:m1": [],
+  "q038:e1:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [
+      "家裡電話"
+    ],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 32,
+      "total_tokens": 526
+    }
+  },
+  "q038:e2:m1": [],
+  "q038:e2:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 496,
+      "completion_tokens": 27,
+      "total_tokens": 523
+    }
+  },
+  "q039:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我陳大天",
+      "start": 2,
+      "end": 7,
+      "score": 0.8354053139686585
+    }
+  ],
+  "q039:e1:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 28,
+      "total_tokens": 514
+    }
+  },
+  "q039:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "陳大天",
+      "start": 4,
+      "end": 7,
+      "score": 0.8787684142589569
+    }
+  ],
+  "q039:e2:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 28,
+      "total_tokens": 514
+    }
+  },
+  "q040:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我吳怡君 請問凱基",
+      "start": 2,
+      "end": 12,
+      "score": 0.9998707324266434
+    }
+  ],
+  "q040:e1:m2": {
+    "name": [
+      "吳怡君"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 28,
+      "total_tokens": 514
+    }
+  },
+  "q040:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 我吳怡君 請問凱基",
+      "start": 2,
+      "end": 12,
+      "score": 0.9998707324266434
+    }
+  ],
+  "q040:e2:m2": {
+    "name": [
+      "吳怡君"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 28,
+      "total_tokens": 514
+    }
+  },
+  "q041:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強",
+      "start": 5,
+      "end": 8,
+      "score": 0.7011513908704122
+    }
+  ],
+  "q041:e1:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 490,
+      "completion_tokens": 27,
+      "total_tokens": 517
+    }
+  },
+  "q041:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "張志強 想諮",
+      "start": 5,
+      "end": 11,
+      "score": 0.7520721952120463
+    }
+  ],
+  "q041:e2:m2": {
+    "name": [
+      "張志強"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 27,
+      "total_tokens": 516
+    }
+  },
+  "q042:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬 請問凱基",
+      "start": 4,
+      "end": 12,
+      "score": 0.9550045511939309
+    },
+    {
+      "category": "private_person",
+      "text": "新康泰跟",
+      "start": 12,
+      "end": 16,
+      "score": 0.9030508697032928
+    },
+    {
+      "category": "private_address",
+      "text": "新",
+      "start": 16,
+      "end": 17,
+      "score": 0.5748801231384277
+    },
+    {
+      "category": "private_person",
+      "text": "康泰 這",
+      "start": 17,
+      "end": 21,
+      "score": 0.8089725077152252
+    },
+    {
+      "category": "private_address",
+      "text": "兩張住院醫療赴約的 保障範圍差在哪 就保護能不能轉到",
+      "start": 21,
+      "end": 47,
+      "score": 0.8394471829136213
+    }
+  ],
+  "q042:e1:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 28,
+      "total_tokens": 522
+    }
+  },
+  "q042:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬 請問凱基",
+      "start": 4,
+      "end": 12,
+      "score": 0.999533702026714
+    },
+    {
+      "category": "private_address",
+      "text": "兩",
+      "start": 22,
+      "end": 23,
+      "score": 0.5042291879653931
+    },
+    {
+      "category": "private_address",
+      "text": "的",
+      "start": 30,
+      "end": 31,
+      "score": 0.6555038690567017
+    },
+    {
+      "category": "private_address",
+      "text": "範",
+      "start": 33,
+      "end": 34,
+      "score": 0.5457226037979126
+    },
+    {
+      "category": "private_address",
+      "text": "能",
+      "start": 43,
+      "end": 44,
+      "score": 0.6183412075042725
+    }
+  ],
+  "q042:e2:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 28,
+      "total_tokens": 522
+    }
+  },
+  "q043:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "邱亞方",
+      "start": 4,
+      "end": 7,
+      "score": 0.9634534269571304
+    }
+  ],
+  "q043:e1:m2": {
+    "name": [
+      "邱亞方"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 28,
+      "total_tokens": 511
+    }
+  },
+  "q043:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "邱亞芳",
+      "start": 4,
+      "end": 7,
+      "score": 0.9998936504125595
+    },
+    {
+      "category": "private_person",
+      "text": "意十之十賦",
+      "start": 36,
+      "end": 41,
+      "score": 0.6284517049789429
+    }
+  ],
+  "q043:e2:m2": {
+    "name": [
+      "邱亞芳"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 28,
+      "total_tokens": 512
+    }
+  },
+  "q044:e1:m1": [],
+  "q044:e1:m2": {
+    "name": [
+      "王少明"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 27,
+      "total_tokens": 510
+    }
+  },
+  "q044:e2:m1": [],
+  "q044:e2:m2": {
+    "name": [
+      "王少明"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 27,
+      "total_tokens": 510
+    }
+  },
+  "q045:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我",
+      "start": 2,
+      "end": 4,
+      "score": 0.8226569890975952
+    },
+    {
+      "category": "private_person",
+      "text": "蔡雅婷",
+      "start": 4,
+      "end": 7,
+      "score": 0.8944175044695536
+    }
+  ],
+  "q045:e1:m2": {
+    "name": [
+      "蔡雅婷"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 27,
+      "total_tokens": 514
+    }
+  },
+  "q045:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "蔡雅婷",
+      "start": 4,
+      "end": 7,
+      "score": 0.9879275759061178
+    }
+  ],
+  "q045:e2:m2": {
+    "name": [
+      "蔡雅婷"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 27,
+      "total_tokens": 511
+    }
+  },
+  "q046:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我",
+      "start": 2,
+      "end": 4,
+      "score": 0.5307338833808899
+    },
+    {
+      "category": "private_person",
+      "text": "黃美玲 想要問問看 紅癌腺",
+      "start": 4,
+      "end": 17,
+      "score": 0.9917266837188176
+    }
+  ],
+  "q046:e1:m2": {
+    "name": [
+      "黃美玲"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 27,
+      "total_tokens": 514
+    }
+  },
+  "q046:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "黃美玲",
+      "start": 4,
+      "end": 7,
+      "score": 0.9721047282218933
+    },
+    {
+      "category": "private_person",
+      "text": "腎",
+      "start": 18,
+      "end": 19,
+      "score": 0.5124977231025696
+    }
+  ],
+  "q046:e2:m2": {
+    "name": [
+      "黃美玲"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 27,
+      "total_tokens": 515
+    }
+  },
+  "q047:e1:m1": [],
+  "q047:e1:m2": {
+    "name": [
+      "文傑"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 491,
+      "completion_tokens": 27,
+      "total_tokens": 518
+    }
+  },
+  "q047:e2:m1": [],
+  "q047:e2:m2": {
+    "name": [
+      "文傑"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 491,
+      "completion_tokens": 27,
+      "total_tokens": 518
+    }
+  },
+  "q048:e1:m1": [],
+  "q048:e1:m2": {
+    "name": [
+      "周建華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 27,
+      "total_tokens": 516
+    }
+  },
+  "q048:e2:m1": [],
+  "q048:e2:m2": {
+    "name": [
+      "周建華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 27,
+      "total_tokens": 516
+    }
+  },
+  "q049:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我楊雅雯",
+      "start": 2,
+      "end": 7,
+      "score": 0.9999869664510092
+    }
+  ],
+  "q049:e1:m2": {
+    "name": [
+      "楊雅雯"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 29,
+      "total_tokens": 513
+    }
+  },
+  "q049:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "我楊雅雯",
+      "start": 2,
+      "end": 6,
+      "score": 0.9533145626386007
+    }
+  ],
+  "q049:e2:m2": {
+    "name": [
+      "楊雅雯"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 485,
+      "completion_tokens": 29,
+      "total_tokens": 514
+    }
+  },
+  "q050:e1:m1": [],
+  "q050:e1:m2": {
+    "name": [
+      "賴志偉"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 29,
+      "total_tokens": 518
+    }
+  },
+  "q050:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "記",
+      "start": 12,
+      "end": 13,
+      "score": 0.5187556743621826
+    }
+  ],
+  "q050:e2:m2": {
+    "name": [
+      "賴志偉"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 29,
+      "total_tokens": 518
+    }
+  },
+  "q051:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "何美華",
+      "start": 4,
+      "end": 7,
+      "score": 0.9916428128878275
+    }
+  ],
+  "q051:e1:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 27,
+      "total_tokens": 515
+    }
+  },
+  "q051:e2:m1": [],
+  "q051:e2:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 490,
+      "completion_tokens": 27,
+      "total_tokens": 517
+    }
+  },
+  "q052:e1:m1": [],
+  "q052:e1:m2": {
+    "name": [
+      "廖淑娟"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 500,
+      "completion_tokens": 30,
+      "total_tokens": 530
+    }
+  },
+  "q052:e2:m1": [],
+  "q052:e2:m2": {
+    "name": [
+      "廖淑娟"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 500,
+      "completion_tokens": 30,
+      "total_tokens": 530
+    }
+  },
+  "q053:e1:m1": [],
+  "q053:e1:m2": {
+    "name": [
+      "曾國偉"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 28,
+      "total_tokens": 511
+    }
+  },
+  "q053:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "曾國偉 請",
+      "start": 4,
+      "end": 9,
+      "score": 0.8627255473818097
+    }
+  ],
+  "q053:e2:m2": {
+    "name": [
+      "曾國偉"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 481,
+      "completion_tokens": 28,
+      "total_tokens": 509
+    }
+  },
+  "q054:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "單號碼",
+      "start": 9,
+      "end": 12,
+      "score": 0.5538174311319987
+    },
+    {
+      "category": "account_number",
+      "text": " KGI2024001234",
+      "start": 12,
+      "end": 26,
+      "score": 0.9998801549275717
+    }
+  ],
+  "q054:e1:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "KGI2024001234"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 35,
+      "total_tokens": 530
+    }
+  },
+  "q054:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "單",
+      "start": 9,
+      "end": 10,
+      "score": 0.5094353556632996
+    },
+    {
+      "category": "account_number",
+      "text": " KGI2024001234",
+      "start": 12,
+      "end": 26,
+      "score": 0.9998831947644552
+    }
+  ],
+  "q054:e2:m2": {
+    "name": [
+      "陳大天"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "KGI2024001234"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 35,
+      "total_tokens": 530
+    }
+  },
+  "q055:e1:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬 保單號K2018042",
+      "start": 4,
+      "end": 19,
+      "score": 0.9989534508098256
+    }
+  ],
+  "q055:e1:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "K2018042"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 33,
+      "total_tokens": 528
+    }
+  },
+  "q055:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "林淑芬 保單號K20180042",
+      "start": 4,
+      "end": 20,
+      "score": 0.9993189627474005
+    }
+  ],
+  "q055:e2:m2": {
+    "name": [
+      "林淑芬"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "K20180042"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 33,
+      "total_tokens": 527
+    }
+  },
+  "q056:e1:m1": [
+    {
+      "category": "account_number",
+      "text": "單",
+      "start": 9,
+      "end": 10,
+      "score": 0.5714236497879028
+    },
+    {
+      "category": "account_number",
+      "text": "098765",
+      "start": 14,
+      "end": 20,
+      "score": 0.5171718299388885
+    }
+  ],
+  "q056:e1:m2": {
+    "name": [
+      "張記強"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "2020987654"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 501,
+      "completion_tokens": 32,
+      "total_tokens": 533
+    }
+  },
+  "q056:e2:m1": [
+    {
+      "category": "account_number",
+      "text": " 我張記強 保單號2020987654",
+      "start": 2,
+      "end": 21,
+      "score": 0.9877212155948986
+    }
+  ],
+  "q056:e2:m2": {
+    "name": [
+      "張記強"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "2020987654"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 502,
+      "completion_tokens": 32,
+      "total_tokens": 534
+    }
+  },
+  "q057:e1:m1": [],
+  "q057:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "20230011"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 490,
+      "completion_tokens": 27,
+      "total_tokens": 517
+    }
+  },
+  "q057:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "怡真 保單號20230011",
+      "start": 5,
+      "end": 19,
+      "score": 0.8299438655376434
+    },
+    {
+      "category": "private_person",
+      "text": "凱基",
+      "start": 27,
+      "end": 29,
+      "score": 0.6349106729030609
+    }
+  ],
+  "q057:e2:m2": {
+    "name": [
+      "伍怡真"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "20230011"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 491,
+      "completion_tokens": 31,
+      "total_tokens": 522
+    }
+  },
+  "q058:e1:m1": [],
+  "q058:e1:m2": {
+    "name": [
+      "文傑"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "K2019005678"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 33,
+      "total_tokens": 527
+    }
+  },
+  "q058:e2:m1": [],
+  "q058:e2:m2": {
+    "name": [
+      "文傑"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "K2019005678"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 33,
+      "total_tokens": 527
+    }
+  },
+  "q059:e1:m1": [],
+  "q059:e1:m2": {
+    "name": [
+      "蘇健文"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "KGI20 22555888"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 494,
+      "completion_tokens": 36,
+      "total_tokens": 530
+    }
+  },
+  "q059:e2:m1": [],
+  "q059:e2:m2": {
+    "name": [
+      "蘇健文"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "KGI20 22555888"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 36,
+      "total_tokens": 531
+    }
+  },
+  "q060:e1:m1": [
+    {
+      "category": "private_person",
+      "text": " 我何美華 保單號KL20-2100-1122",
+      "start": 2,
+      "end": 25,
+      "score": 0.950848650932312
+    },
+    {
+      "category": "private_person",
+      "text": "請替我查這張 開吉祥安心醫療",
+      "start": 26,
+      "end": 40,
+      "score": 0.8418307428558668
+    },
+    {
+      "category": "private_person",
+      "text": "護",
+      "start": 49,
+      "end": 50,
+      "score": 0.5454457998275757
+    },
+    {
+      "category": "private_person",
+      "text": "名片 金額就不",
+      "start": 51,
+      "end": 58,
+      "score": 0.7419692873954773
+    }
+  ],
+  "q060:e1:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "KL20-2100-1122"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 36,
+      "total_tokens": 531
+    }
+  },
+  "q060:e2:m1": [
+    {
+      "category": "private_person",
+      "text": "何美華 保單號KL20-2100-1122",
+      "start": 4,
+      "end": 25,
+      "score": 0.9249660904918399
+    },
+    {
+      "category": "private_person",
+      "text": "請幫",
+      "start": 26,
+      "end": 28,
+      "score": 0.5860863129297892
+    },
+    {
+      "category": "private_person",
+      "text": "張 凱吉祥",
+      "start": 31,
+      "end": 36,
+      "score": 0.7790561795234681
+    },
+    {
+      "category": "private_person",
+      "text": " 金額就不",
+      "start": 53,
+      "end": 58,
+      "score": 0.6187107115983963
+    },
+    {
+      "category": "private_person",
+      "text": "太便",
+      "start": 59,
+      "end": 61,
+      "score": 0.6059323847293854
+    }
+  ],
+  "q060:e2:m2": {
+    "name": [
+      "何美華"
+    ],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "KL20-2100-1122"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 498,
+      "completion_tokens": 36,
+      "total_tokens": 534
+    }
+  },
+  "q061:e1:m1": [],
+  "q061:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 23,
+      "total_tokens": 507
+    }
+  },
+  "q061:e2:m1": [],
+  "q061:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 23,
+      "total_tokens": 506
+    }
+  },
+  "q062:e1:m1": [],
+  "q062:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 23,
+      "total_tokens": 511
+    }
+  },
+  "q062:e2:m1": [],
+  "q062:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 23,
+      "total_tokens": 511
+    }
+  },
+  "q063:e1:m1": [],
+  "q063:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q063:e2:m1": [],
+  "q063:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q064:e1:m1": [],
+  "q064:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 23,
+      "total_tokens": 511
+    }
+  },
+  "q064:e2:m1": [],
+  "q064:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 23,
+      "total_tokens": 511
+    }
+  },
+  "q065:e1:m1": [],
+  "q065:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "凱基曾有禮"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 31,
+      "total_tokens": 515
+    }
+  },
+  "q065:e2:m1": [],
+  "q065:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 23,
+      "total_tokens": 507
+    }
+  },
+  "q066:e1:m1": [],
+  "q066:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 23,
+      "total_tokens": 509
+    }
+  },
+  "q066:e2:m1": [],
+  "q066:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q067:e1:m1": [],
+  "q067:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 495,
+      "completion_tokens": 23,
+      "total_tokens": 518
+    }
+  },
+  "q067:e2:m1": [],
+  "q067:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 491,
+      "completion_tokens": 23,
+      "total_tokens": 514
+    }
+  },
+  "q068:e1:m1": [],
+  "q068:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 23,
+      "total_tokens": 507
+    }
+  },
+  "q068:e2:m1": [],
+  "q068:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 23,
+      "total_tokens": 507
+    }
+  },
+  "q069:e1:m1": [],
+  "q069:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q069:e2:m1": [],
+  "q069:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q070:e1:m1": [],
+  "q070:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 23,
+      "total_tokens": 509
+    }
+  },
+  "q070:e2:m1": [],
+  "q070:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 23,
+      "total_tokens": 509
+    }
+  },
+  "q071:e1:m1": [],
+  "q071:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "凱己向放心"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 29,
+      "total_tokens": 515
+    }
+  },
+  "q071:e2:m1": [],
+  "q071:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 485,
+      "completion_tokens": 23,
+      "total_tokens": 508
+    }
+  },
+  "q072:e1:m1": [],
+  "q072:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 482,
+      "completion_tokens": 23,
+      "total_tokens": 505
+    }
+  },
+  "q072:e2:m1": [],
+  "q072:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 481,
+      "completion_tokens": 23,
+      "total_tokens": 504
+    }
+  },
+  "q073:e1:m1": [],
+  "q073:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 23,
+      "total_tokens": 507
+    }
+  },
+  "q073:e2:m1": [],
+  "q073:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 23,
+      "total_tokens": 506
+    }
+  },
+  "q074:e1:m1": [],
+  "q074:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q074:e2:m1": [],
+  "q074:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q075:e1:m1": [],
+  "q075:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 23,
+      "total_tokens": 506
+    }
+  },
+  "q075:e2:m1": [],
+  "q075:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 481,
+      "completion_tokens": 23,
+      "total_tokens": 504
+    }
+  },
+  "q076:e1:m1": [],
+  "q076:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 479,
+      "completion_tokens": 23,
+      "total_tokens": 502
+    }
+  },
+  "q076:e2:m1": [],
+  "q076:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 478,
+      "completion_tokens": 23,
+      "total_tokens": 501
+    }
+  },
+  "q077:e1:m1": [],
+  "q077:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 23,
+      "total_tokens": 506
+    }
+  },
+  "q077:e2:m1": [],
+  "q077:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 23,
+      "total_tokens": 511
+    }
+  },
+  "q078:e1:m1": [],
+  "q078:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 482,
+      "completion_tokens": 23,
+      "total_tokens": 505
+    }
+  },
+  "q078:e2:m1": [],
+  "q078:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 484,
+      "completion_tokens": 23,
+      "total_tokens": 507
+    }
+  },
+  "q079:e1:m1": [],
+  "q079:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 482,
+      "completion_tokens": 23,
+      "total_tokens": 505
+    }
+  },
+  "q079:e2:m1": [],
+  "q079:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 23,
+      "total_tokens": 506
+    }
+  },
+  "q080:e1:m1": [],
+  "q080:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 485,
+      "completion_tokens": 23,
+      "total_tokens": 508
+    }
+  },
+  "q080:e2:m1": [],
+  "q080:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 485,
+      "completion_tokens": 23,
+      "total_tokens": 508
+    }
+  },
+  "q081:e1:m1": [],
+  "q081:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "太極想安心"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 28,
+      "total_tokens": 514
+    }
+  },
+  "q081:e2:m1": [
+    {
+      "category": "private_person",
+      "text": " 凱吉祥安心這張保單",
+      "start": 7,
+      "end": 17,
+      "score": 0.9579885005950928
+    }
+  ],
+  "q081:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "凱吉祥安心"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 29,
+      "total_tokens": 512
+    }
+  },
+  "q082:e1:m1": [],
+  "q082:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 488,
+      "completion_tokens": 23,
+      "total_tokens": 511
+    }
+  },
+  "q082:e2:m1": [],
+  "q082:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 487,
+      "completion_tokens": 23,
+      "total_tokens": 510
+    }
+  },
+  "q083:e1:m1": [],
+  "q083:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 479,
+      "completion_tokens": 23,
+      "total_tokens": 502
+    }
+  },
+  "q083:e2:m1": [],
+  "q083:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 479,
+      "completion_tokens": 23,
+      "total_tokens": 502
+    }
+  },
+  "q084:e1:m1": [],
+  "q084:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 485,
+      "completion_tokens": 23,
+      "total_tokens": 508
+    }
+  },
+  "q084:e2:m1": [],
+  "q084:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 23,
+      "total_tokens": 509
+    }
+  },
+  "q085:e1:m1": [],
+  "q085:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 481,
+      "completion_tokens": 23,
+      "total_tokens": 504
+    }
+  },
+  "q085:e2:m1": [],
+  "q085:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 486,
+      "completion_tokens": 23,
+      "total_tokens": 509
+    }
+  },
+  "q086:e1:m1": [],
+  "q086:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 493,
+      "completion_tokens": 23,
+      "total_tokens": 516
+    }
+  },
+  "q086:e2:m1": [],
+  "q086:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 492,
+      "completion_tokens": 23,
+      "total_tokens": 515
+    }
+  },
+  "q087:e1:m1": [],
+  "q087:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 481,
+      "completion_tokens": 23,
+      "total_tokens": 504
+    }
+  },
+  "q087:e2:m1": [],
+  "q087:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 481,
+      "completion_tokens": 23,
+      "total_tokens": 504
+    }
+  },
+  "q088:e1:m1": [],
+  "q088:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 483,
+      "completion_tokens": 23,
+      "total_tokens": 506
+    }
+  },
+  "q088:e2:m1": [],
+  "q088:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 489,
+      "completion_tokens": 23,
+      "total_tokens": 512
+    }
+  },
+  "q089:e1:m1": [],
+  "q089:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 490,
+      "completion_tokens": 23,
+      "total_tokens": 513
+    }
+  },
+  "q089:e2:m1": [],
+  "q089:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [
+      "凱基新康泰住院醫療附約"
+    ],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 491,
+      "completion_tokens": 36,
+      "total_tokens": 527
+    }
+  },
+  "q090:e1:m1": [],
+  "q090:e1:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 482,
+      "completion_tokens": 23,
+      "total_tokens": 505
+    }
+  },
+  "q090:e2:m1": [],
+  "q090:e2:m2": {
+    "name": [],
+    "national_id": [],
+    "birth_date": [],
+    "policy_id": [],
+    "phone": [],
+    "address": [],
+    "_usage": {
+      "prompt_tokens": 482,
+      "completion_tokens": 23,
+      "total_tokens": 505
+    }
+  }
+}

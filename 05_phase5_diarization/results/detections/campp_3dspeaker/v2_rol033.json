@@ -1,0 +1,12 @@
+{
+  "case_id": "v2_rol033",
+  "model_id": "campp_3dspeaker",
+  "elapsed_sec": 0.6079764366149902,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.47,
+      "speaker": "spk_0"
+    }
+  ]
+}

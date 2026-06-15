@@ -1,0 +1,153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://kgi-stt.local/phase5_v2/dialog_spec.schema.json",
+  "title": "Phase 5 v2 Dialog Specification",
+  "type": "object",
+  "required": ["case_id", "split", "slice", "language_profile", "scenario", "participants", "turns"],
+  "properties": {
+    "case_id": {
+      "type": "string",
+      "pattern": "^v2_[a-z]+(_[a-z]+)?_?\\d{3,4}$",
+      "description": "Unique ID. Allowed prefixes: v2_smkNNN, v2_codex_NNN, v2_devtune_NNN, v2_testcore_NNN, v2_testcore_hk_NNN, v2_testcore_cs_NNN, v2_roleattr_NNN, v2_teststress_NNN"
+    },
+    "split": {
+      "type": "string",
+      "enum": ["dev_smoke", "dev_tune", "test_core", "test_stress", "role_attribution"]
+    },
+    "slice": {
+      "type": "string",
+      "enum": [
+        "clean_turn_taking",
+        "reentry_short_gap",
+        "reentry_long_gap",
+        "agent_barge_in",
+        "customer_barge_in",
+        "simultaneous_start",
+        "short_backchannel",
+        "hokkien_pure",
+        "codeswitch",
+        "same_gender_similar",
+        "third_party_background",
+        "no_pii_product_inquiry",
+        "impostor_unknown"
+      ]
+    },
+    "language_profile": {
+      "type": "string",
+      "enum": ["mandarin", "hokkien", "codeswitch"]
+    },
+    "scenario": {
+      "type": "string",
+      "description": "Human-readable scenario tag, e.g. '住院理賠文件確認'"
+    },
+    "recording_start": {
+      "type": "string",
+      "enum": ["full_call", "mid_call"],
+      "description": "full_call has greeting; mid_call defeats rule-based role attribution"
+    },
+    "role_signal_strength": {
+      "type": "string",
+      "enum": ["strong", "medium", "weak"],
+      "description": "How obvious the agent vs customer role cues are"
+    },
+    "duration_target_sec": {
+      "type": "number",
+      "minimum": 10,
+      "maximum": 120
+    },
+    "participants": {
+      "type": "object",
+      "required": ["agent", "customer"],
+      "properties": {
+        "agent": {"$ref": "#/$defs/participant"},
+        "customer": {"$ref": "#/$defs/participant"},
+        "other": {"$ref": "#/$defs/participant"}
+      }
+    },
+    "turns": {
+      "type": "array",
+      "minItems": 3,
+      "items": {"$ref": "#/$defs/turn"}
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "schema_version": {"type": "string"},
+        "created_at": {"type": "string"},
+        "audio_format": {"type": "string"}
+      }
+    }
+  },
+  "$defs": {
+    "participant": {
+      "type": "object",
+      "required": ["role", "gender", "voice_pool", "voice_id"],
+      "properties": {
+        "role": {"type": "string", "enum": ["agent", "customer", "other"]},
+        "gender": {"type": "string", "enum": ["F", "M"]},
+        "persona": {"type": "string"},
+        "voice_pool": {
+          "type": "string",
+          "enum": [
+            "azure_zh_tw_female",
+            "azure_zh_tw_female_alt1",
+            "azure_zh_tw_female_alt2",
+            "azure_zh_tw_male",
+            "azure_zh_tw_male_variant",
+            "azure_zh_tw_third_party",
+            "yating_tai_female",
+            "yating_tai_male"
+          ]
+        },
+        "voice_id": {
+          "type": "string",
+          "description": "Concrete voice id, e.g. zh-TW-HsiaoChenNeural"
+        }
+      }
+    },
+    "turn": {
+      "type": "object",
+      "required": ["turn_idx", "speaker", "role", "language", "text", "timing"],
+      "properties": {
+        "turn_idx": {"type": "integer", "minimum": 0},
+        "speaker": {"type": "string", "enum": ["agent", "customer", "other"]},
+        "role": {"type": "string", "enum": ["agent", "customer", "other"]},
+        "language": {"type": "string", "enum": ["mandarin", "hokkien"]},
+        "text": {"type": "string", "minLength": 1},
+        "tags": {
+          "type": "array",
+          "description": "Free-form descriptive tags. Canonical tags (recommended for cross-slice analytics): greeting, service_script, verification_request, process_explanation, answer, agent_response, agent_support, hold_prompt, verification_complete, agent_barge_in, customer_barge_in, request, clarification, complaint, complaint_followup, long_customer_turn, long_agent_turn, closing, pii_self_report, name, national_id, policy_id, case_id_report, phone, address, birth_date, domain_terms, reentry, reentry_setup, backchannel, short_customer_backchannel, short_agent_backchannel, mid_call, weak_role, no_pii, third_party_background, background_speech. Free-form descriptive tags also allowed for scenario context.",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "timing": {
+          "type": "object",
+          "properties": {
+            "delay_before_sec": {"type": "number", "minimum": 0},
+            "overlap_with_prev": {"type": "boolean"},
+            "overlap_offset_sec": {
+              "type": "number",
+              "maximum": 0,
+              "description": "Negative value: how many seconds before prev turn ends this one starts"
+            },
+            "start_relation": {
+              "type": "string",
+              "enum": ["after_prev", "same_time_as_prev"]
+            },
+            "forced_pause_after_sec": {
+              "type": "number",
+              "minimum": 0,
+              "description": "Force a long silence AFTER this turn before scheduling the next"
+            },
+            "background_gain_db": {
+              "type": "number",
+              "description": "Reduce gain for background speakers (negative dB)"
+            }
+          }
+        }
+      }
+    }
+  }
+}

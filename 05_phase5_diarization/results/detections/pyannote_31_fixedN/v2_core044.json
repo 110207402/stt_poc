@@ -1,0 +1,102 @@
+{
+  "case_id": "v2_core044",
+  "model_id": "pyannote_31_fixedN",
+  "elapsed_sec": 0.6268675327301025,
+  "segments": [
+    {
+      "start": 0.03096875,
+      "end": 0.48659375000000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 0.7565937500000001,
+      "end": 2.49471875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 2.79846875,
+      "end": 3.6759687500000005,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 3.87846875,
+      "end": 5.650343750000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 6.122843750000001,
+      "end": 7.1353437500000005,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 7.48971875,
+      "end": 10.223468750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 10.476593750000003,
+      "end": 12.67034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12.83909375,
+      "end": 14.15534375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14.644718750000003,
+      "end": 16.38284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 16.551593750000002,
+      "end": 21.17534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 21.512843750000002,
+      "end": 24.44909375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 24.820343750000003,
+      "end": 26.27159375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 26.76096875,
+      "end": 29.81534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 30.152843750000002,
+      "end": 32.68409375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 33.072218750000005,
+      "end": 35.77221875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 36.143468750000004,
+      "end": 37.24034375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 37.67909375,
+      "end": 39.04596875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 39.400343750000005,
+      "end": 41.52659375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 41.74596875,
+      "end": 43.197218750000005,
+      "speaker": "SPEAKER_01"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "case_id": "v2_core133",
+  "model_id": "pyannote_31_auto",
+  "elapsed_sec": 0.35527729988098145,
+  "segments": [
+    {
+      "start": 0.03096875,
+      "end": 0.13221875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 0.13221875,
+      "end": 0.55409375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 0.55409375,
+      "end": 0.65534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 0.90846875,
+      "end": 0.92534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 0.92534375,
+      "end": 3.06846875,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3.60846875,
+      "end": 4.50284375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 4.7897187500000005,
+      "end": 9.025343750000001,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 9.025343750000001,
+      "end": 9.430343750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 9.902843750000002,
+      "end": 12.602843750000002,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 12.805343750000002,
+      "end": 13.851593750000003,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 14.15534375,
+      "end": 16.11284375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.500968750000002,
+      "end": 16.51784375,
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 16.51784375,
+      "end": 18.39096875,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 18.59346875,
+      "end": 22.52534375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 22.980968750000002,
+      "end": 26.71034375,
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 26.71034375,
+      "end": 28.63409375,
+      "speaker": "SPEAKER_00"
+    }
+  ]
+}

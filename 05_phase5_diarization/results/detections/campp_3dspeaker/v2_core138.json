@@ -1,0 +1,32 @@
+{
+  "case_id": "v2_core138",
+  "model_id": "campp_3dspeaker",
+  "elapsed_sec": 1.8893756866455078,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 3.42,
+      "end": 10.46,
+      "speaker": "spk_1"
+    },
+    {
+      "start": 10.46,
+      "end": 16.55,
+      "speaker": "spk_0"
+    },
+    {
+      "start": 16.55,
+      "end": 20.7,
+      "speaker": "spk_1"
+    },
+    {
+      "start": 20.7,
+      "end": 27.81,
+      "speaker": "spk_0"
+    }
+  ]
+}
